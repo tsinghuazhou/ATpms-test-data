@@ -117,18 +117,22 @@ def load_file(path):
             dts = [None] * n
     n_dt = sum(1 for x in dts if x is not None)
     elapsed_real = None
+    has_real_sec = False
     if n_dt > n * 0.9:
         t0 = next(x for x in dts if x is not None)
-        elapsed_real = [(x - t0).total_seconds() if x is not None else math.nan
-                        for x in dts]
-        for i in range(1, n):
-            if math.isnan(elapsed_real[i]):
-                prev = elapsed_real[i - 1]
-                if not math.isnan(prev):
-                    elapsed_real[i] = prev + 1.0
+        gaps = [(dts[i] - dts[i - 1]).total_seconds() for i in range(1, n)
+                if dts[i] is not None and dts[i - 1] is not None]
+        med_gap = sorted(gaps)[len(gaps) // 2] if gaps else 0.0
+        has_real_sec = 0.8 <= med_gap <= 1.2
+        if has_real_sec:
+            elapsed_real = [(x - t0).total_seconds() if x is not None
+                            else math.nan for x in dts]
+            for i in range(1, n):
+                if math.isnan(elapsed_real[i]):
+                    elapsed_real[i] = elapsed_real[i - 1] + 1.0
     T = {f"T{i+1}": [r[i] for r in tvals_all] for i in range(9)}
     return {"n": n, "T": T, "elapsed": elapsed_idx,
-            "elapsed_real": elapsed_real}
+            "elapsed_real": elapsed_real, "has_real_sec": has_real_sec}
 
 
 def interp_time(el, vals, target):
@@ -143,9 +147,10 @@ def interp_time(el, vals, target):
     return math.nan
 
 
-def calc_metrics(d, structure, power_w):
+def calc_metrics(d, structure, power_w, use_real=False):
     n = d["n"]
-    el = d["elapsed"]
+    el = (d["elapsed_real"] if (use_real and d["has_real_sec"])
+          else d["elapsed"])
     T = d["T"]
     Bm = ["T2", "T3"] if structure == "IWP" else ["T2", "T3", "T5"]
     Cm = ["T8", "T9"] if (structure == "IWP" and power_w in (10, 20)) else ["T9"]
@@ -220,23 +225,26 @@ def main():
               f"exp%={row[14]:>6.2f} | T1_end={row[15]:>6.1f} "
               f"T1_peak={row[16]:>6.1f}")
 
-    # 与既有综合表比对
+    # 与定稿综合表比对 (规范化口径 = 真实时间戳, 见 compute_canonical_matrix_20260909.py)
     csvp = os.path.join(ROOT, "output", "paper", "data",
                         "tpms_comprehensive_comparison.csv")
     existing = {}
     with io.open(csvp, encoding="utf-8-sig") as f:
         for r in csv.DictReader(f):
             existing[f"{r['Structure']}_{r['Power']}"] = r
-    print("\n-- 与 output/paper/data/tpms_comprehensive_comparison.csv 比对 --")
+    print("\n-- 对规范化综合表复算 (真实时间戳口径, 期望Δ≈0) --")
     max_diff = {}
-    for key, row in rows:
+    for key, fname in FILES.items():
         struct, pw = key.rsplit("_", 1)
-        old = existing[f"{struct}_{pw}"]
+        pw = int(pw[:-1])
+        d = load_file(fname)
+        m = calc_metrics(d, struct, pw, use_real=True)
+        old = existing[f"{struct}_{pw}W"]
         diff = {
-            "melt": abs(row[5] - float(old["melting_duration"])),
-            "ab42": abs(row[8] - float(old["ab_42"])),
-            "exp": abs(row[14] - float(old["ab_expansion"])),
-            "dur": abs(row[2] - float(old["duration"])),
+            "melt": abs(m["melt_min"] - float(old["melting_duration"])),
+            "ab42": abs(m["ab_42"] - float(old["ab_42"])),
+            "exp": abs(m["ab_expansion"] - float(old["ab_expansion"])),
+            "dur": abs(m["duration_min"] - float(old["duration"])),
         }
         for k, v in diff.items():
             max_diff[k] = max(max_diff.get(k, 0), v)
