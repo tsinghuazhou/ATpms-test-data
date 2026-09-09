@@ -63,10 +63,18 @@ node/git 均无法取到图像字节，因此 `node scripts/generate_paper_docx_
 无法运行。文本层（本文件 + 各 md + 生成器 js）已全部是规范数字。
 
 **重建 docx 的命令**（在能正常读取 figures 的机器/会话上执行）:
-```
+```bash
+# 1) 用规范口径重出 4 张图（先确认图内数字来自规范 CSV）
+python scripts/plot_fig3_comprehensive.py     # Fig.3 新脚本, 读规范 CSV (compare_all_structures.py 已退役)
+python scripts/plot_power_sensitivity.py      # Fig.5 (读规范 CSV)
+python scripts/plot_performance_ranking.py    # Fig.6 (读规范 CSV)
+python scripts/plot_temperature_curves.py     # Fig.4
+# 注: 后三个脚本原为 D:\qqhru.edu.cn\... 机器编写, 路径常量需按机器调整
+# 2) 重建 docx
 node scripts/generate_paper_docx_v5.js
+# 3) 校验: 解包 TPMS_PCM_Paper_v5.docx, 确认旧 token 清零
+#    (8.28/11.75/2.10/0.57/29.6×/48.9%/Kaur/Tang et al./Zhou and Qiao 等)
 ```
-重建后请用文档检查脚本确认旧 token 清零（8.28/11.75/2.10/0.57/29.6×/48.9%…）。
 
 > 注意：fig3/fig5 图内柱状图带数值标注（图5 的 × 倍数），图内数字来自
 > `output/paper/data/tpms_comprehensive_comparison.csv`——该 CSV 已是规范口径，
