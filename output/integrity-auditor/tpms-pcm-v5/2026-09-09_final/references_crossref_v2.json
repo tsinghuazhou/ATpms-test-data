@@ -1,0 +1,1142 @@
+[
+ {
+  "num": 1,
+  "claimed": "Qureshi Z., Khodadadi H., Karimi A., et al. Heat transfer performance of phase change materials integrated with TPMS-based metal foam heat sinks. Inte",
+  "claimed_title": "Heat transfer performance of phase change materials integrated with TPMS-based metal foam heat sinks.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2021,
+  "hits": [
+   {
+    "title": "Experimental investigation of heat transfer enhancement using microencapsulated phase change slurry in metal foam heat sinks",
+    "journal": "International Communications in Heat and Mass Transfer",
+    "year": 2026,
+    "doi": "10.1016/j.icheatmasstransfer.2026.112422",
+    "score": 0.0
+   },
+   {
+    "title": "Heat transfer performance of a finned metal foam-phase change material (FMF-PCM) system incorporating triply periodic minimal surfaces (TPMS)",
+    "journal": "International Journal of Heat and Mass Transfer",
+    "year": 2021,
+    "doi": "10.1016/j.ijheatmasstransfer.2021.121001",
+    "score": 0.0
+   },
+   {
+    "title": "Heat transfer in metal foam infused PCM: A case study",
+    "journal": "Phase Change Materials for Heat Transfer",
+    "year": 2023,
+    "doi": "10.1016/b978-0-323-91905-0.00001-0",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 2,
+  "claimed": "Qureshi Z., Khodadadi H., Karimi A., et al. Thermal characterization of 3D-printed TPMS lattice structures integrated with phase change materials. Cas",
+  "claimed_title": "Thermal characterization of 3D-printed TPMS lattice structures integrated with phase change materials.",
+  "claimed_journal": "Case Studies in Thermal Engineering",
+  "claimed_year": 2021,
+  "hits": [
+   {
+    "title": "Design of 3D Printed Programmable Horseshoe Lattice Structures Based on a Phase-Evolution Model",
+    "journal": "",
+    "year": null,
+    "doi": "10.1021/acsami.0c04097.s009",
+    "score": 0.0
+   },
+   {
+    "title": "Design of 3D Printed Programmable Horseshoe Lattice Structures Based on a Phase-Evolution Model",
+    "journal": "",
+    "year": null,
+    "doi": "10.1021/acsami.0c04097.s008",
+    "score": 0.0
+   },
+   {
+    "title": "Design of 3D Printed Programmable Horseshoe Lattice Structures Based on a Phase-Evolution Model",
+    "journal": "",
+    "year": null,
+    "doi": "10.1021/acsami.0c04097.s004",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 3,
+  "claimed": "Gado M. Numerical investigation of TPMS-based heat sinks filled with phase change materials for thermal management of electronic devices. Applied Ther",
+  "claimed_title": "Numerical investigation of TPMS-based heat sinks filled with phase change materials for thermal management of electronic devices.",
+  "claimed_journal": "Applied Thermal Engineering",
+  "claimed_year": 2023,
+  "hits": [
+   {
+    "title": "Thermal management and heat transfer enhancement of electronic devices using integrative phase change material (PCM) and triply periodic minimal surfa",
+    "journal": "Applied Thermal Engineering",
+    "year": 2025,
+    "doi": "10.1016/j.applthermaleng.2024.124504",
+    "score": 0.0
+   },
+   {
+    "title": "Efficient thermal management of high-power and transient electronic devices using phase change material-filled triply periodic minimal surface heat si",
+    "journal": "Applied Thermal Engineering",
+    "year": 2026,
+    "doi": "10.1016/j.applthermaleng.2026.129853",
+    "score": 0.0
+   },
+   {
+    "title": "Investigation of thermal management performance of electronic devices with phase change materials and pin fin heat sinks under periodic heating and co",
+    "journal": "Energy Conversion and Management",
+    "year": 2025,
+    "doi": "10.1016/j.enconman.2025.120107",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 4,
+  "claimed": "Ashby M.F., Lu T.J., Fleck N.A., et al. The selection of structural concepts for multifunctional materials. Journal de Physique IV 2001;11:271-286.",
+  "claimed_title": "The selection of structural concepts for multifunctional materials.",
+  "claimed_journal": "Journal de Physique IV",
+  "claimed_year": 2001,
+  "hits": [
+   {
+    "title": "Multifunctional materials: concepts, function-structure relationships, knowledge-based design, translational materials research",
+    "journal": "Multifunctional Materials",
+    "year": 2018,
+    "doi": "10.1088/2399-7532/aada7b",
+    "score": 0.0
+   },
+   {
+    "title": "Durable Biomolecular Assemblies for Protein-Powered Device Concepts",
+    "journal": "Volume 2: Multifunctional Materials; Enabling Technologies a",
+    "year": 2009,
+    "doi": "10.1115/smasis2009-1346",
+    "score": 0.0
+   },
+   {
+    "title": "4 Multifunctional composites and structural TES materials",
+    "journal": "Thermal Energy Storage Composites",
+    "year": 2025,
+    "doi": "10.1515/9783111111865-004",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 5,
+  "claimed": "Kaur M., Singh P. Comprehensive characterization of flow and thermal transport phenomena in TPMS-based heat exchangers. International Journal of Therm",
+  "claimed_title": "Comprehensive characterization of flow and thermal transport phenomena in TPMS-based heat exchangers.",
+  "claimed_journal": "International Journal of Thermal Sciences",
+  "claimed_year": 2022,
+  "hits": [
+   {
+    "title": "Flow Dynamics and Heat Transfer in Helical Heat Exchangers",
+    "journal": "Transport Phenomena in Food Processing",
+    "year": 2016,
+    "doi": "10.1201/9781420006261-29",
+    "score": 0.0
+   },
+   {
+    "title": "Physics-Informed Neural Network Prediction of Nanofluid Thermal Transport in TPMS Gyroid Heat Exchangers",
+    "journal": "Processes",
+    "year": 2026,
+    "doi": "10.3390/pr14162587",
+    "score": 0.0
+   },
+   {
+    "title": "Graph-theory-based flow path optimization in baffled TPMS heat exchangers",
+    "journal": "Applied Thermal Engineering",
+    "year": 2026,
+    "doi": "10.1016/j.applthermaleng.2026.132134",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 6,
+  "claimed": "Tang Y., Yan J., Liu T., et al. Convective heat transfer in Gyroid TPMS structures: Role of chiral secondary flows. International Journal of Heat and ",
+  "claimed_title": "Convective heat transfer in Gyroid TPMS structures: Role of chiral secondary flows.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2022,
+  "hits": [
+   {
+    "title": "Controlling TPMS lattice deformation for enhanced convective heat transfer: A comparative study of Diamond and Gyroid structures",
+    "journal": "International Communications in Heat and Mass Transfer",
+    "year": 2024,
+    "doi": "10.1016/j.icheatmasstransfer.2024.107443",
+    "score": 0.0
+   },
+   {
+    "title": "Mathematical regulation of Gyroid-type TPMS structures for enhanced convective heat transfer",
+    "journal": "International Journal of Heat and Fluid Flow",
+    "year": 2026,
+    "doi": "10.1016/j.ijheatfluidflow.2025.110227",
+    "score": 0.0
+   },
+   {
+    "title": "Gyroid-type TPMS structure optimization based on mathematical function control and its convective heat transfer performance study",
+    "journal": "International Communications in Heat and Mass Transfer",
+    "year": 2025,
+    "doi": "10.1016/j.icheatmasstransfer.2025.108682",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 7,
+  "claimed": "Zhao X., Li Z., Wang Q., et al. Effective thermal conductivity enhancement in TPMS-based lattice structures: Experimental and numerical study. Applied",
+  "claimed_title": "Effective thermal conductivity enhancement in TPMS-based lattice structures: Experimental and numerical study.",
+  "claimed_journal": "Applied Energy",
+  "claimed_year": 2022,
+  "hits": [
+   {
+    "title": "Experimental and numerical study for effective thermal conductivity of metallic honeycomb sandwich structures",
+    "journal": "Journal of Sandwich Structures &amp; Materials",
+    "year": 2020,
+    "doi": "10.1177/1099636220933534",
+    "score": 0.0
+   },
+   {
+    "title": "Numerical and experimental investigation of transversal effective thermal conductivity of sandwich panel with lattice core under vacuum environment",
+    "journal": "Journal of Sandwich Structures &amp; Materials",
+    "year": 2025,
+    "doi": "10.1177/10996362251346873",
+    "score": 0.0
+   },
+   {
+    "title": "Topological design and synergistic enhancement mechanism of mechanical and thermal properties for hybrid TPMS lattice structures based on shear band s",
+    "journal": "Progress in Additive Manufacturing",
+    "year": 2026,
+    "doi": "10.1007/s40964-026-01926-y",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 8,
+  "claimed": "Feng J., Fu B., Kang C., et al. Additive manufacturing of TPMS-based porous metallic structures: A review. Materials & Design 2021;207:109863.",
+  "claimed_title": "Additive manufacturing of TPMS-based porous metallic structures: A review.",
+  "claimed_journal": "Materials & Design",
+  "claimed_year": 2021,
+  "hits": [
+   {
+    "title": "High-efficiency multi-scale strategy for TPMS-based conformal heterogeneous structures",
+    "journal": "Additive Manufacturing",
+    "year": 2025,
+    "doi": "10.1016/j.addma.2025.104808",
+    "score": 0.0
+   },
+   {
+    "title": "Recent advances in ink-based additive manufacturing for porous structures",
+    "journal": "Additive Manufacturing",
+    "year": 2021,
+    "doi": "10.1016/j.addma.2021.102405",
+    "score": 0.0
+   },
+   {
+    "title": "Data-driven lightweight and robust design of hybrid TPMS structures",
+    "journal": "Additive Manufacturing",
+    "year": 2026,
+    "doi": "10.1016/j.addma.2026.105106",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 9,
+  "claimed": "Bai L., Gong C., Chen X., et al. Additively manufactured metallic porous materials for thermal energy storage. Renewable and Sustainable Energy Review",
+  "claimed_title": "Additively manufactured metallic porous materials for thermal energy storage.",
+  "claimed_journal": "Renewable and Sustainable Energy Reviews",
+  "claimed_year": 2022,
+  "hits": [
+   {
+    "title": "Synthesis of microencapsulated phase change materials for use in additively manufactured thermal energy storage devices",
+    "journal": "Journal of Energy Storage",
+    "year": 2026,
+    "doi": "10.1016/j.est.2025.120309",
+    "score": 0.0
+   },
+   {
+    "title": "Corrosion in additively manufactured cold spray metallic deposits",
+    "journal": "Tribology of Additively Manufactured Materials",
+    "year": 2022,
+    "doi": "10.1016/b978-0-12-821328-5.00010-x",
+    "score": 0.0
+   },
+   {
+    "title": "Additively manufactured porous metallic biomaterials",
+    "journal": "Journal of Materials Chemistry B",
+    "year": 2019,
+    "doi": "10.1039/c9tb00420c",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 10,
+  "claimed": "Zhang P., Wu Z.W., Ma Z.W., et al. Thermal performance of a phase change thermal energy storage system with enhanced conductivity by foams. Applied Th",
+  "claimed_title": "Thermal performance of a phase change thermal energy storage system with enhanced conductivity by foams.",
+  "claimed_journal": "Applied Thermal Engineering",
+  "claimed_year": 2013,
+  "hits": [
+   {
+    "title": "Enhanced thermal conductivity and photo-to-thermal performance of diatomite-based composite phase change materials for thermal energy storage",
+    "journal": "Journal of Energy Storage",
+    "year": 2021,
+    "doi": "10.1016/j.est.2020.102171",
+    "score": 0.0
+   },
+   {
+    "title": "Paraffin/Ti3C2Tx Mxene@Gelatin Aerogels Composite Phase-Change Materials with High Solar-Thermal Conversion Efficiency and Enhanced Thermal Conductivi",
+    "journal": "",
+    "year": null,
+    "doi": "10.1021/acs.energyfuels.0c04275.s001",
+    "score": 0.0
+   },
+   {
+    "title": "Review on thermal conductivity improvement of phase change materials with enhanced additives for thermal energy storage",
+    "journal": "Journal of Energy Storage",
+    "year": 2022,
+    "doi": "10.1016/j.est.2022.104568",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 11,
+  "claimed": "Xiao X., Zhang P., Li M. Effective thermal conductivity of copper foam/paraffin composite phase change material. International Communications in Heat ",
+  "claimed_title": "Effective thermal conductivity of copper foam/paraffin composite phase change material.",
+  "claimed_journal": "International Communications in Heat and Mass Transfer",
+  "claimed_year": 2013,
+  "hits": [
+   {
+    "title": "EXPERIMENT AND ANALYSIS OF EFFECTIVE THERMAL CONDUCTIVITY OF A COPPER FOAM/PARAFFIN COMPOSITE PHASE CHANGE MATERIAL",
+    "journal": "International Heat Transfer Conference 16",
+    "year": 2018,
+    "doi": "10.1615/ihtc16.tpm.022100",
+    "score": 0.0
+   },
+   {
+    "title": "Leakage-Proof and High-Conductivity Composite Phase Change Material Using Low-Melting-Point-Alloy-Encapsulated Copper Foam/Paraffin for Superior Therm",
+    "journal": "Materials",
+    "year": 2025,
+    "doi": "10.3390/ma18194604",
+    "score": 0.0
+   },
+   {
+    "title": "Effect of porosity and pore density of copper foam on thermal performance of the paraffin-copper foam composite Phase-Change Material",
+    "journal": "Case Studies in Thermal Engineering",
+    "year": 2020,
+    "doi": "10.1016/j.csite.2020.100742",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 12,
+  "claimed": "Li W.Q., Qu Z.G., He Y.L., et al. Thermal behavior of porous materials with phase change material during melting process. International Journal of Hea",
+  "claimed_title": "Thermal behavior of porous materials with phase change material during melting process.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2013,
+  "hits": [
+   {
+    "title": "Review for \"Pore-level melting process of composite phase change material within different porous structure\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1002/cjce.25744/v1/review1",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Pore-level melting process of composite phase change material within different porous structure\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1002/cjce.25744/v2/review1",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Pore-level melting process of composite phase change material within different porous structure\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1002/cjce.25744/v1/review2",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 13,
+  "claimed": "Yang J., Yang L., Xu C., et al. Experimental study on enhancement of thermal energy storage with phase change material using metal foams. Applied Ener",
+  "claimed_title": "Experimental study on enhancement of thermal energy storage with phase change material using metal foams.",
+  "claimed_journal": "Applied Energy",
+  "claimed_year": 2014,
+  "hits": [
+   {
+    "title": "Experimental study on thermal performance enhancement of liquid metal-molten salt composite phase change material for high-temperature thermal energy ",
+    "journal": "Journal of Energy Storage",
+    "year": 2026,
+    "doi": "10.1016/j.est.2026.121647",
+    "score": 0.0
+   },
+   {
+    "title": "Heat Transfer Enhancement for Thermal Energy Storage Using Metal Foams Embedded within Phase Change Materials (PCMS)",
+    "journal": "Inaugural US-EU-China Thermophysics Conference-Renewable Ene",
+    "year": 2009,
+    "doi": "10.1115/1.802908.paper117",
+    "score": 0.0
+   },
+   {
+    "title": "Heat transfer enhancement for thermal energy storage using metal foams embedded within phase change materials (PCMs)",
+    "journal": "Solar Energy",
+    "year": 2010,
+    "doi": "10.1016/j.solener.2010.04.022",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 14,
+  "claimed": "Zhao C.Y., Wu Z.G. Heat-transfer enhancement by high-conductivity inserts in phase-change materials. Applied Energy 2010;87:2151-2160.",
+  "claimed_title": "Heat-transfer enhancement by high-conductivity inserts in phase-change materials.",
+  "claimed_journal": "Applied Energy",
+  "claimed_year": 2010,
+  "hits": [
+   {
+    "title": "Thermal conductivity enhancement of phase change materials",
+    "journal": "Phase Change Materials for Heat Transfer",
+    "year": 2023,
+    "doi": "10.1016/b978-0-323-91905-0.00002-2",
+    "score": 0.0
+   },
+   {
+    "title": "Snowflake shaped high-conductivity inserts for heat transfer enhancement",
+    "journal": "International Journal of Heat and Mass Transfer",
+    "year": 2018,
+    "doi": "10.1016/j.ijheatmasstransfer.2018.08.063",
+    "score": 0.0
+   },
+   {
+    "title": "Heat transfer enhancement of phase change materials",
+    "journal": "Phase Change Materials for Heat Transfer",
+    "year": 2023,
+    "doi": "10.1016/b978-0-323-91905-0.00006-x",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 15,
+  "claimed": "Wu Z.G., Zhao C.Y. Experimental investigations of porous materials in high temperature latent heat storage systems. Solar Energy Materials and Solar C",
+  "claimed_title": "Experimental investigations of porous materials in high temperature latent heat storage systems.",
+  "claimed_journal": "Solar Energy Materials and Solar Cells",
+  "claimed_year": 2011,
+  "hits": [
+   {
+    "title": "Experimental investigations of porous materials in high temperature thermal energy storage systems",
+    "journal": "Solar Energy",
+    "year": 2011,
+    "doi": "10.1016/j.solener.2011.03.021",
+    "score": 0.0
+   },
+   {
+    "title": "High Temperature Energy Storage and Phase Change Materials: A Review",
+    "journal": "Latent Heat-Based Thermal Energy Storage Systems",
+    "year": 2020,
+    "doi": "10.1201/9780429328640-3",
+    "score": 0.0
+   },
+   {
+    "title": "Experimental investigations of high-temperature shell and multi-tube latent heat storage system",
+    "journal": "Applied Thermal Engineering",
+    "year": 2021,
+    "doi": "10.1016/j.applthermaleng.2021.117491",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 16,
+  "claimed": "Zhao C.Y., Wu Z.G. Natural convection heat transfer in a porous medium saturated with phase change material. International Journal of Heat and Mass Tr",
+  "claimed_title": "Natural convection heat transfer in a porous medium saturated with phase change material.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2012,
+  "hits": [
+   {
+    "title": "Effect of V-shaped obstructions on natural convection heat transfer within a fluid saturated porous medium",
+    "journal": "",
+    "year": 2023,
+    "doi": "10.22541/au.169640470.05216527/v1",
+    "score": 0.05
+   },
+   {
+    "title": "TRANSIENT NATURAL CONVECTION HEAT TRANSFER IN A CAVITY FILLED WITH A FLUID-SATURATED, POROUS MEDIUM",
+    "journal": "Proceeding of International Heat Transfer Conference 8",
+    "year": 1986,
+    "doi": "10.1615/ihtc8.3850",
+    "score": 0.0
+   },
+   {
+    "title": "Combined Heat and Mass Transfer by Natural Convection in a Saturated Thermally Stratified Porous Medium",
+    "journal": "Heat Transfer: Volume 2 — Heat Transfer in Turbulent Flows; ",
+    "year": 1996,
+    "doi": "10.1115/imece1996-0076",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 17,
+  "claimed": "Li X., Wu D., Gao L., et al. Experimental investigation of the thermal performance of a PCM-based heat sink with different fin structures. Applied The",
+  "claimed_title": "Experimental investigation of the thermal performance of a PCM-based heat sink with different fin structures.",
+  "claimed_journal": "Applied Thermal Engineering",
+  "claimed_year": 2018,
+  "hits": [
+   {
+    "title": "Experimental investigation on the heat transfer performance of a PCM based pin fin heat sink with discrete heating",
+    "journal": "International Journal of Thermal Sciences",
+    "year": 2017,
+    "doi": "10.1016/j.ijthermalsci.2016.08.018",
+    "score": 0.0
+   },
+   {
+    "title": "The Thermal Management Performance of the Pcm-Based Pin Fin Heat Sink Under the Transient Heat Flux Shock Conditions:An Experimental Study",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.2139/ssrn.5262793",
+    "score": 0.0
+   },
+   {
+    "title": "The Thermal Management Performance of the Pcm-Based Pin Fin Heat Sink Under the Transient Heat Flux Shock Conditions:An Experimental Study",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.2139/ssrn.5274693",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 18,
+  "claimed": "Wang Z., Zhang H., Jia L., et al. Experimental and numerical study on melting of phase change materials in metal foam heat sinks. International Journa",
+  "claimed_title": "Experimental and numerical study on melting of phase change materials in metal foam heat sinks.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2019,
+  "hits": [
+   {
+    "title": "Experimental Investigation on Melting and Solidification of Phase Change Material-Based Cylindrical Heat Sinks",
+    "journal": "Phase Change Material-Based Heat Sinks: A Multi Objective Pe",
+    "year": 2019,
+    "doi": "10.1201/9780429325571-8",
+    "score": 0.0
+   },
+   {
+    "title": "Experimental study of melting on graded metal foam composite phase change materials under nonuniform heat flux",
+    "journal": "International Journal of Heat and Mass Transfer",
+    "year": 2025,
+    "doi": "10.1016/j.ijheatmasstransfer.2024.126613",
+    "score": 0.0
+   },
+   {
+    "title": "Effects of gradient porous metal foam on the melting performance and energy storage of composite phase change materials subjected to an internal heate",
+    "journal": "International Journal of Heat and Mass Transfer",
+    "year": 2022,
+    "doi": "10.1016/j.ijheatmasstransfer.2021.122081",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 19,
+  "claimed": "Ebrahimi A., Kozak G., Martin J., et al. A review of data centers, energy consumption, and cooling strategies. Renewable and Sustainable Energy Review",
+  "claimed_title": "A review of data centers, energy consumption, and cooling strategies.",
+  "claimed_journal": "Renewable and Sustainable Energy Reviews",
+  "claimed_year": 2020,
+  "hits": [
+   {
+    "title": "Energy Consumption and Cooling Efficiency Strategies in Data Centers:  A Review",
+    "journal": "Journal of Energy Research and Reviews",
+    "year": 2025,
+    "doi": "10.9734/jenrr/2025/v17i7438",
+    "score": 0.0
+   },
+   {
+    "title": "Hybrid Air-Liquid Cooling Strategies for Sustainable Data Centers",
+    "journal": "",
+    "year": 2026,
+    "doi": "10.21203/rs.3.rs-8818864/v1",
+    "score": 0.0
+   },
+   {
+    "title": "Towards energy-efficient data centers: A comprehensive review of passive and active cooling strategies",
+    "journal": "Energy and Built Environment",
+    "year": 2026,
+    "doi": "10.1016/j.enbenv.2024.08.009",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 20,
+  "claimed": "Mahajan R., Chiu C., Chrysler G., et al. Overview of packaging and thermal technology at Intel. Intel Technology Journal 2002;6:1-12.",
+  "claimed_title": "Overview of packaging and thermal technology at Intel.",
+  "claimed_journal": "Intel Technology Journal",
+  "claimed_year": 2002,
+  "hits": [
+   {
+    "title": "Overview of Phase-Change Materials",
+    "journal": "Encyclopedia of Thermal Packaging",
+    "year": 2018,
+    "doi": "10.1142/9789813239746_0002",
+    "score": 0.0
+   },
+   {
+    "title": "Intel enterprise server processor packaging challenge and future trend",
+    "journal": "2014 15th International Conference on Electronic Packaging T",
+    "year": 2014,
+    "doi": "10.1109/icept.2014.6922942",
+    "score": 0.0
+   },
+   {
+    "title": "Lighting Overview for Conventional and LED Systems",
+    "journal": "Encyclopedia of Thermal Packaging",
+    "year": 2013,
+    "doi": "10.1142/9789814603607_0001",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 21,
+  "claimed": "Guo N., Zhang H., Liu Y., et al. 3D-printed lattice heat sink integrated with phase change material for electronics cooling. Applied Thermal Engineeri",
+  "claimed_title": "3D-printed lattice heat sink integrated with phase change material for electronics cooling.",
+  "claimed_journal": "Applied Thermal Engineering",
+  "claimed_year": 2023,
+  "hits": [
+   {
+    "title": "Parametric Optimization of a Phase Change Material-Integrated Heat Sink for Electronics Cooling Using the Taguchi Method",
+    "journal": "",
+    "year": 2026,
+    "doi": "10.2139/ssrn.7355711",
+    "score": 0.0
+   },
+   {
+    "title": "Numerical and Experimental Analyses of a Phase Change Material-Thermoelectric System Integrated with a Heat Sink and Radiative Cooling",
+    "journal": "",
+    "year": null,
+    "doi": "10.1021/acsami.4c17331.s001",
+    "score": 0.0
+   },
+   {
+    "title": "Experimental Investigation on Electronics Cooling with Low Porosity Metal Foam/Phase Change Material Composite Heat Sink",
+    "journal": "",
+    "year": 2023,
+    "doi": "10.2139/ssrn.4459077",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 22,
+  "claimed": "Lau J.H. Recent advances and trends in advanced packaging. IEEE Transactions on Components, Packaging and Manufacturing Technology 2014;4:226-252.",
+  "claimed_title": "Recent advances and trends in advanced packaging. IEEE Transactions on Components,",
+  "claimed_journal": "Packaging and Manufacturing Technology",
+  "claimed_year": 2014,
+  "hits": [
+   {
+    "title": "Recent Advances and Trends in Advanced Packaging",
+    "journal": "IEEE Transactions on Components, Packaging and Manufacturing",
+    "year": 2022,
+    "doi": "10.1109/tcpmt.2022.3144461",
+    "score": 0.0
+   },
+   {
+    "title": "Recent Advances and Trends in Cu–Cu Hybrid Bonding",
+    "journal": "IEEE Transactions on Components, Packaging and Manufacturing",
+    "year": 2023,
+    "doi": "10.1109/tcpmt.2023.3265529",
+    "score": 0.0
+   },
+   {
+    "title": "Recent Advances and Trends in Multiple System and Heterogeneous Integration With TSV Interposers",
+    "journal": "IEEE Transactions on Components, Packaging and Manufacturing",
+    "year": 2023,
+    "doi": "10.1109/tcpmt.2023.3234007",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 23,
+  "claimed": "Zhou Y., Qiao X. Heat transfer characteristics in copper foam saturated with phase change material. International Journal of Heat and Mass Transfer 20",
+  "claimed_title": "Heat transfer characteristics in copper foam saturated with phase change material.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2020,
+  "hits": [
+   {
+    "title": "Passive thermal management using metal foam saturated with phase change material in a heat sink",
+    "journal": "International Communications in Heat and Mass Transfer",
+    "year": 2012,
+    "doi": "10.1016/j.icheatmasstransfer.2012.09.001",
+    "score": 0.0
+   },
+   {
+    "title": "Heat transfer enhancement of phase change composite material: Copper foam/paraffin",
+    "journal": "Renewable Energy",
+    "year": 2016,
+    "doi": "10.1016/j.renene.2016.04.039",
+    "score": 0.0
+   },
+   {
+    "title": "The role of porosity gradient distribution on the heat transfer characteristics of copper foam/paraffin composite phase change material",
+    "journal": "Journal of Energy Storage",
+    "year": 2025,
+    "doi": "10.1016/j.est.2025.117157",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 24,
+  "claimed": "Al-Yousif O., Al-Asadi A., Al-Kayiem H. Experimental investigation of the thermal management of electronic components using phase change materials. En",
+  "claimed_title": "Experimental investigation of the thermal management of electronic components using phase change materials.",
+  "claimed_journal": "Energy Procedia",
+  "claimed_year": 2019,
+  "hits": [
+   {
+    "title": "Experimental Investigation of Thermal Performance of Nano-Enhanced Phase Change Materials for Thermal Management of Electronic Components",
+    "journal": "ASME 2019 Power Conference",
+    "year": 2019,
+    "doi": "10.1115/power2019-1883",
+    "score": 0.0
+   },
+   {
+    "title": "Energy efficient thermal management of electronic components using solid liquid phase change materials",
+    "journal": "ITherm 2002. Eighth Intersociety Conference on Thermal and T",
+    "year": null,
+    "doi": "10.1109/itherm.2002.1012536",
+    "score": 0.0
+   },
+   {
+    "title": "Overview of Phase-Change Materials",
+    "journal": "Encyclopedia of Thermal Packaging",
+    "year": 2018,
+    "doi": "10.1142/9789813239746_0002",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 25,
+  "claimed": "Sabbah R., Khaled M., Faraj J., et al. A review of recent advancements in thermal management of electronics using phase change materials. Thermal Scie",
+  "claimed_title": "A review of recent advancements in thermal management of electronics using phase change materials.",
+  "claimed_journal": "Thermal Science and Engineering Progress",
+  "claimed_year": 2020,
+  "hits": [
+   {
+    "title": "Advancements in Thermal Energy Storage: A Review of Material Innovations and Strategic Approaches for Phase Change Materials",
+    "journal": "",
+    "year": null,
+    "doi": "10.1021/acs.energyfuels.4c03634.s001",
+    "score": 0.0
+   },
+   {
+    "title": "Electronics cooling and thermal management using phase change materials",
+    "journal": "Navigating a Sustainable Future with Phase Change Materials ",
+    "year": 2026,
+    "doi": "10.1016/b978-0-443-27484-8.00017-0",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Recyclable low-thermal-conductivity phase change materials for building thermal management\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1039/d5qm00739a/v2/review1",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 26,
+  "claimed": "Arshab H., Al-Obaidi M., Dulaimi A., et al. A review of passive thermal management of phase change materials in building applications. Journal of Buil",
+  "claimed_title": "A review of passive thermal management of phase change materials in building applications.",
+  "claimed_journal": "Journal of Building Engineering",
+  "claimed_year": 2021,
+  "hits": [
+   {
+    "title": "Review for \"Recyclable low-thermal-conductivity phase change materials for building thermal management\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1039/d5qm00739a/v1/review1",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Recyclable low-thermal-conductivity phase change materials for building thermal management\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1039/d5qm00739a/v2/review1",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Recyclable low-thermal-conductivity phase change materials for building thermal management\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1039/d5qm00739a/v1/review2",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 27,
+  "claimed": "Tyagi V.V., Kaushik S.C., Tyagi S.K., et al. Phase change material based advance solar thermal systems: A review. Renewable and Sustainable Energy Rev",
+  "claimed_title": "Phase change material based advance solar thermal systems: A review.",
+  "claimed_journal": "Renewable and Sustainable Energy Reviews",
+  "claimed_year": 2009,
+  "hits": [
+   {
+    "title": "Review for \"Structure-Property Relationship of p-Alkoxyazobenzenes as Molecular Solar Thermal Phase Change Material Energy Storage Systems (MOST-PCM)\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1039/d5tc01024a/v1/review1",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Structure-Property Relationship of p-Alkoxyazobenzenes as Molecular Solar Thermal Phase Change Material Energy Storage Systems (MOST-PCM)\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1039/d5tc01024a/v1/review2",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Structure-Property Relationship of p-Alkoxyazobenzenes as Molecular Solar Thermal Phase Change Material Energy Storage Systems (MOST-PCM)\"",
+    "journal": "",
+    "year": 2025,
+    "doi": "10.1039/d5tc01024a/v2/review1",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 28,
+  "claimed": "Sharma A., Tyagi V.V., Chen C.R., et al. Review on thermal energy storage with phase change materials and applications. Renewable and Sustainable Ener",
+  "claimed_title": "Review on thermal energy storage with phase change materials and applications.",
+  "claimed_journal": "Renewable and Sustainable Energy Reviews",
+  "claimed_year": 2009,
+  "hits": [
+   {
+    "title": "Thermal Energy Storage in Phase Change Materials—A Bibliometric Approach",
+    "journal": "Phase Change Materials for Thermal Energy Management and Sto",
+    "year": 2024,
+    "doi": "10.1201/9781003331957-6",
+    "score": 0.0
+   },
+   {
+    "title": "Thermal properties and applications of form‐stable phase change materials for thermal energy storage and thermal management: A review",
+    "journal": "Energy Storage",
+    "year": 2023,
+    "doi": "10.1002/est2.533",
+    "score": 0.0
+   },
+   {
+    "title": "High Temperature Energy Storage and Phase Change Materials: A Review",
+    "journal": "Latent Heat-Based Thermal Energy Storage Systems",
+    "year": 2020,
+    "doi": "10.1201/9780429328640-3",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 29,
+  "claimed": "Zalba B., Marín J.M., Cabeza L.F., et al. Review on thermal energy storage with phase change: Materials, heat transfer analysis and applications. Appl",
+  "claimed_title": "Review on thermal energy storage with phase change: Materials, heat transfer analysis and applications.",
+  "claimed_journal": "Applied Thermal Engineering",
+  "claimed_year": 2003,
+  "hits": [
+   {
+    "title": "Review on thermal energy storage with phase change: materials, heat transfer analysis and applications",
+    "journal": "Applied Thermal Engineering",
+    "year": 2003,
+    "doi": "10.1016/s1359-4311(02)00192-8",
+    "score": 0.0
+   },
+   {
+    "title": "Heat Transfer Augmentation Techniques for Phase Change Materials",
+    "journal": "Phase Change Materials for Thermal Energy Management and Sto",
+    "year": 2024,
+    "doi": "10.1201/9781003331957-7",
+    "score": 0.0
+   },
+   {
+    "title": "Phase Change Material Heat Exchanger (PCMHE) for Thermal Energy Storage Applications",
+    "journal": "International Journal of Materials, Manufacturing and Sustai",
+    "year": 2025,
+    "doi": "10.56896/ijmmst.2025.4.2.008",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 30,
+  "claimed": "Farid M.M., Khudhair A.M., Razack S.A.K., et al. A review on phase change energy storage: Materials and applications. Energy Conversion and Management",
+  "claimed_title": "A review on phase change energy storage: Materials and applications.",
+  "claimed_journal": "Energy Conversion and Management",
+  "claimed_year": 2004,
+  "hits": [
+   {
+    "title": "High Temperature Energy Storage and Phase Change Materials: A Review",
+    "journal": "Latent Heat-Based Thermal Energy Storage Systems",
+    "year": 2020,
+    "doi": "10.1201/9780429328640-3",
+    "score": 0.0
+   },
+   {
+    "title": "Thermal Energy Storage in Phase Change Materials—A Bibliometric Approach",
+    "journal": "Phase Change Materials for Thermal Energy Management and Sto",
+    "year": 2024,
+    "doi": "10.1201/9781003331957-6",
+    "score": 0.0
+   },
+   {
+    "title": "Phase Change Material Applications in Construction and Building Materials",
+    "journal": "Phase Change Materials for Thermal Energy Management and Sto",
+    "year": 2024,
+    "doi": "10.1201/9781003331957-10",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 31,
+  "claimed": "Dutil C., Rousse D.R., Ben Hassine N., et al. A review on phase change materials modeling for building applications. Renewable and Sustainable Energy ",
+  "claimed_title": "A review on phase change materials modeling for building applications.",
+  "claimed_journal": "Renewable and Sustainable Energy Reviews",
+  "claimed_year": 2011,
+  "hits": [
+   {
+    "title": "Phase change materials for pavement applications: A review",
+    "journal": "Construction and Building Materials",
+    "year": 2020,
+    "doi": "10.1016/j.conbuildmat.2020.118553",
+    "score": 0.0
+   },
+   {
+    "title": "Phase Change Material Applications in Construction and Building Materials",
+    "journal": "Phase Change Materials for Thermal Energy Management and Sto",
+    "year": 2024,
+    "doi": "10.1201/9781003331957-10",
+    "score": 0.0
+   },
+   {
+    "title": "Review on Phase Change Materials for Building Applications",
+    "journal": "Applied Mechanics and Materials",
+    "year": 2011,
+    "doi": "10.4028/www.scientific.net/amm.71-78.1958",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 32,
+  "claimed": "Khan Z.A., Al-Sulaiman F.A., Rahman M.M., et al. Thermal performance assessment of solar thermal energy storage systems using phase change materials. ",
+  "claimed_title": "Thermal performance assessment of solar thermal energy storage systems using phase change materials.",
+  "claimed_journal": "Applied Thermal Engineering",
+  "claimed_year": 2017,
+  "hits": [
+   {
+    "title": "Improvement of the thermal performance of a solar triple concentric-tube thermal energy storage unit using cascaded phase change materials",
+    "journal": "Journal of Energy Storage",
+    "year": 2021,
+    "doi": "10.1016/j.est.2021.103047",
+    "score": 0.0
+   },
+   {
+    "title": "Performance enhancement of solar absorption cooling systems using thermal energy storage with phase change materials",
+    "journal": "Applied Energy",
+    "year": 2018,
+    "doi": "10.1016/j.apenergy.2018.04.029",
+    "score": 0.0
+   },
+   {
+    "title": "A review on solar thermal energy storage systems using phase‐change materials",
+    "journal": "Energy Storage",
+    "year": 2023,
+    "doi": "10.1002/est2.541",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 33,
+  "claimed": "Al-Abidi A.A., Mat S., Sopian K., et al. Heat transfer enhancement for PCM thermal energy storage in triplex tube heat exchanger. International Journa",
+  "claimed_title": "Heat transfer enhancement for PCM thermal energy storage in triplex tube heat exchanger.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2014,
+  "hits": [
+   {
+    "title": "HEAT TRANSFER ENHANCEMENT IN PCM THERMAL ENERGY STORAGE VIA THE TRIPLEX TUBE HEAT EXCHANGER",
+    "journal": "Proceeding of 5-6th Thermal and Fluids Engineering Conferenc",
+    "year": 2021,
+    "doi": "10.1615/tfec2021.est.032135",
+    "score": 0.0
+   },
+   {
+    "title": "Heat Transfer Enhancement for PCM Thermal Energy Storage in Triplex Tube Heat Exchanger",
+    "journal": "Heat Transfer Engineering",
+    "year": 2015,
+    "doi": "10.1080/01457632.2015.1067090",
+    "score": 0.0
+   },
+   {
+    "title": "Enhancement of PCM melting employing internal annular fins in triplex tube heat exchanger for thermal energy storage systems",
+    "journal": "International Journal of Heat and Mass Transfer",
+    "year": 2025,
+    "doi": "10.1016/j.ijheatmasstransfer.2025.127601",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 34,
+  "claimed": "Agyenim F., Hewitt N., Eames P., et al. A review of materials, heat transfer and phase change problem formulation for latent heat thermal energy stora",
+  "claimed_title": "A review of materials, heat transfer and phase change problem formulation for latent heat thermal energy storage systems.",
+  "claimed_journal": "Renewable and Sustainable Energy Reviews",
+  "claimed_year": 2010,
+  "hits": [
+   {
+    "title": "A review of materials, heat transfer and phase change problem formulation for latent heat thermal energy storage systems (LHTESS)",
+    "journal": "Renewable and Sustainable Energy Reviews",
+    "year": 2010,
+    "doi": "10.1016/j.rser.2009.10.015",
+    "score": 0.0
+   },
+   {
+    "title": "Review on heat transfer analysis in thermal energy storage using latent heat storage systems and phase change materials",
+    "journal": "International Journal of Energy Research",
+    "year": 2018,
+    "doi": "10.1002/er.4196",
+    "score": 0.0
+   },
+   {
+    "title": "High Temperature Energy Storage and Phase Change Materials: A Review",
+    "journal": "Latent Heat-Based Thermal Energy Storage Systems",
+    "year": 2020,
+    "doi": "10.1201/9780429328640-3",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 35,
+  "claimed": "Liu Z., Yao Y., Wu W. Numerical modeling for solid–liquid phase change of phase change materials. Renewable and Sustainable Energy Reviews 2013;25:323",
+  "claimed_title": "Numerical modeling for solid–liquid phase change of phase change materials.",
+  "claimed_journal": "Renewable and Sustainable Energy Reviews",
+  "claimed_year": 2013,
+  "hits": [
+   {
+    "title": "Numerical modeling and simulation of a diffusion-controlled liquid–solid phase change in polycrystalline solids",
+    "journal": "Computational Materials Science",
+    "year": 2011,
+    "doi": "10.1016/j.commatsci.2010.11.008",
+    "score": 0.0
+   },
+   {
+    "title": "Liquid Film Thickness in Micro-Scale Two-Phase Flow",
+    "journal": "Two Phase Flow, Phase Change and Numerical Modeling",
+    "year": 2011,
+    "doi": "10.5772/22394",
+    "score": 0.0
+   },
+   {
+    "title": "Solid–Liquid Phase Change Materials for Energy Storage",
+    "journal": "Solid–Liquid Thermal Energy Storage",
+    "year": 2022,
+    "doi": "10.1201/9781003213260-2",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 36,
+  "claimed": "Ho C.J., Chu K.H. Effective thermal conductivity of metal foam saturated with phase change material. International Journal of Heat and Mass Transfer 2",
+  "claimed_title": "Effective thermal conductivity of metal foam saturated with phase change material.",
+  "claimed_journal": "International Journal of Heat and Mass Transfer",
+  "claimed_year": 2014,
+  "hits": [
+   {
+    "title": "Thermal management of lithium-ion batteries using graphene coated nickel foam saturated with phase change material",
+    "journal": "",
+    "year": null,
+    "doi": "10.14711/thesis-991012555463603412",
+    "score": 0.0
+   },
+   {
+    "title": "Effective Thermal Conductivity of Fully-Saturated High Porosity Metal Foam",
+    "journal": "Volume 1",
+    "year": 2004,
+    "doi": "10.1115/ht-fed2004-56242",
+    "score": 0.0
+   },
+   {
+    "title": "EXPERIMENT AND ANALYSIS OF EFFECTIVE THERMAL CONDUCTIVITY OF A COPPER FOAM/PARAFFIN COMPOSITE PHASE CHANGE MATERIAL",
+    "journal": "International Heat Transfer Conference 16",
+    "year": 2018,
+    "doi": "10.1615/ihtc16.tpm.022100",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 37,
+  "claimed": "Li M., Wu Z., Kao H. Study on preparation, structure and thermal energy storage property of capric–palmitic acid/attapulgite composite phase change ma",
+  "claimed_title": "Study on preparation, structure and thermal energy storage property of capric–palmitic acid/attapulgite composite phase change material.",
+  "claimed_journal": "Energy Conversion and Management",
+  "claimed_year": 2011,
+  "hits": [
+   {
+    "title": "Study on preparation, structure and thermal energy storage property of capric–palmitic acid/attapulgite composite phase change materials",
+    "journal": "Applied Energy",
+    "year": 2011,
+    "doi": "10.1016/j.apenergy.2011.02.030",
+    "score": 0.0
+   },
+   {
+    "title": "Exfoliation of graphite by solar irradiation and investigate their thermal property on capric–myristic–palmitic acid/exfoliated graphite composite as ",
+    "journal": "Journal of Energy Storage",
+    "year": 2016,
+    "doi": "10.1016/j.est.2015.11.004",
+    "score": 0.0
+   },
+   {
+    "title": "Preparation and thermal characterization of capric–myristic–palmitic acid/expanded graphite composite as phase change material for energy storage",
+    "journal": "Materials Letters",
+    "year": 2014,
+    "doi": "10.1016/j.matlet.2014.04.002",
+    "score": 0.0
+   }
+  ]
+ },
+ {
+  "num": 38,
+  "claimed": "Wu Z., Li M. Preparation and thermal properties of shape-stabilized phase change materials based on high-density polyethylene/paraffin composites. Jou",
+  "claimed_title": "Preparation and thermal properties of shape-stabilized phase change materials based on high-density polyethylene/paraffin composites.",
+  "claimed_journal": "Journal of Applied Polymer Science",
+  "claimed_year": 2012,
+  "hits": [
+   {
+    "title": "Form-stable paraffin/high density polyethylene composites as solid–liquid phase change material for thermal energy storage: preparation and thermal pr",
+    "journal": "Energy Conversion and Management",
+    "year": 2004,
+    "doi": "10.1016/j.enconman.2003.10.022",
+    "score": 0.0
+   },
+   {
+    "title": "Preparation and properties studies of halogen-free flame retardant form-stable phase change materials based on paraffin/high density polyethylene comp",
+    "journal": "Applied Energy",
+    "year": 2008,
+    "doi": "10.1016/j.apenergy.2007.10.017",
+    "score": 0.0
+   },
+   {
+    "title": "Review for \"Bio-based sunflower carbon/polyethylene glycol shape-stabilized phase change materials for thermal energy storage\"",
+    "journal": "",
+    "year": 2024,
+    "doi": "10.1039/d4ra03208j/v2/review2",
+    "score": 0.0
+   }
+  ]
+ }
+]
