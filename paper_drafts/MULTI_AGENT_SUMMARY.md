@@ -68,7 +68,7 @@
   - Panel A: 熔融时长对比，标注排名反转
   - Panel B: A-B梯度@42°C，标注改善百分比
 - **关键发现**: 
-  - 10W: IWP (12.33min) > Gyroid (11.75min) > Primitive (8.28min)
+  - 10W: IWP (12.33min) > Gyroid (11.83min) > Primitive (9.43min)
   - 20W/30W: Gyroid > IWP > Primitive（排名完全反转）
 - **状态**: ✅ 完成
 

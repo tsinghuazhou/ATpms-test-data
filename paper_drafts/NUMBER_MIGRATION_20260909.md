@@ -44,22 +44,34 @@ T1/T9 达 42°C（若正文引用）以规范 CSV 的 `t1_42`/`t9_42` 列为准�
 | G 比 P 长 (10W) | ~25% | ~25%（不变） | 11.83/9.43−1=25.4% |
 | G 20W 熔融 = IWP 的 | 2.3x | **2.4x** | 2.22/0.93 |
 
-## 3. 仍需手工更新的文件（本轮未改，属论文正文层）
+## 3. 更新状态（2026-09-09 执行后）
 
-各文件含旧口径数字的句子（计数为 2026-09-09 grep 结果，含第 1/2 节任意 token）：
-
-| 文件 | 说明 |
+| 文件 | 状态 |
 |------|------|
-| `paper_drafts/results_v2_en.md` | 44 处 |
-| `paper_drafts/paper_v3_zh.md` | 67 处 |
-| `paper_drafts/paper_v3_en.md` | 67 处 |
-| `paper_drafts/paper_v4_en.md` | 67 处 |
-| `paper_drafts/MULTI_AGENT_SUMMARY.md` | 7 处（10W 排名行） |
-| `scripts/generate_paper_docx.js` | 68 处（内嵌正文，改后需重新生成 v4 docx） |
-| `scripts/generate_paper_docx_v5.js` | 68 处（内嵌正文，**现行 v5 docx 来源**，改后重生成） |
+| `paper_drafts/paper_v3_zh.md` | ✅ 已更新（11 处替换，128% 中文句已改 138%） |
+| `paper_drafts/paper_v3_en.md` | ✅ 已更新（15 处替换） |
+| `paper_drafts/paper_v4_en.md` | ✅ 已更新（15 处替换） |
+| `paper_drafts/results_v2_en.md` | ✅ 已更新（14 处替换） |
+| `paper_drafts/MULTI_AGENT_SUMMARY.md` | ✅ 已更新（2 处替换） |
+| `scripts/generate_paper_docx_v5.js` | ✅ 已更新（25 处替换 + 1 句改写；`node --check` 通过） |
+| `TPMS_PCM_Paper_v5.docx` | ⏳ 待重建（见下） |
+| `scripts/generate_paper_docx.js`（v4 docx 来源） | 未改（v4 已被 v5 取代，如需可照同一映射处理） |
 
-> 注意：token 命中数含"无需改"的数值（如 12.33/0.62/25%），实际改动点少于计数；
-> 替换必须按第 1/2 节映射逐句核对，勿全局字符串替换（29.6x→33.7x 之类只出现在句中）。
+**为什么 docx 未能在这里重建**: 本次会话所在机器的云盘上
+`output/paper/figures/*.png`（docx 内嵌的 4 张图）处于离线占位状态，读取即报错，
+node/git 均无法取到图像字节，因此 `node scripts/generate_paper_docx_v5.js`
+无法运行。文本层（本文件 + 各 md + 生成器 js）已全部是规范数字。
+
+**重建 docx 的命令**（在能正常读取 figures 的机器/会话上执行）:
+```
+node scripts/generate_paper_docx_v5.js
+```
+重建后请用文档检查脚本确认旧 token 清零（8.28/11.75/2.10/0.57/29.6×/48.9%…）。
+
+> 注意：fig3/fig5 图内柱状图带数值标注（图5 的 × 倍数），图内数字来自
+> `output/paper/data/tpms_comprehensive_comparison.csv`——该 CSV 已是规范口径，
+> 若原机器上有旧图缓存需用 scripts/plot_power_sensitivity.py、
+> plot_performance_ranking.py 等重新出图再嵌入。
 
 ## 4. 无需修改
 
