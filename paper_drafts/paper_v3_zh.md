@@ -1,3 +1,5 @@
+> **已取代 (2026-09-09)** - 本文稿含经 Crossref 核验大部分无法追溯的参考文献表（见 output/integrity-auditor/tpms-pcm-v5/2026-09-09_final）。现行版本：paper_v4_en.md 与 scripts/generate_paper_docx_v5.js。请勿以此稿投稿。
+
 # TPMS晶格结构结合相变材料热性能的实验研究：Gyroid、IWP与Primitive架构的对比研究
 
 ---

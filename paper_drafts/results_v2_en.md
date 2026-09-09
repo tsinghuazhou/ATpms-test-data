@@ -1,3 +1,5 @@
+> **SUPERSEDED (2026-09-09)** - superseded by paper_v4_en.md / scripts/generate_paper_docx_v5.js. Numbers in this file are the canonical real-timestamp set; kept only as a writing-history artifact.
+
 # 3. Results and Discussion
 
 ## 3.1 Thermal Performance Comparison at 10W Heating Power

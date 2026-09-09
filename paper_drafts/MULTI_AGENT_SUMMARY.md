@@ -1,3 +1,5 @@
+> **HISTORICAL NOTE (2026-09-09)** - meta-summary from the drafting session; not the manuscript of record. The live paper text is paper_v4_en.md and scripts/generate_paper_docx_v5.js.
+
 # 多Agent团队论文撰写总结
 
 ## 任务概述

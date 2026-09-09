@@ -1,3 +1,5 @@
+> **SUPERSEDED (2026-09-09)** - contains a reference list verified against Crossref as largely untraceable (see output/integrity-auditor/tpms-pcm-v5/2026-09-09_final). The live manuscript is `paper_v4_en.md` (markdown) and `scripts/generate_paper_docx_v5.js` (docx source). Do not use this file for submission.
+
 # Experimental Investigation of Thermal Performance in TPMS Lattice Structures with Phase Change Materials: A Comparative Study of Gyroid, IWP, and Primitive Architectures
 
 ---
