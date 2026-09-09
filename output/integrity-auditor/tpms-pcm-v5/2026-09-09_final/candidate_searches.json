@@ -1,0 +1,986 @@
+{
+ "s1_qureshi_tpms": [
+  {
+   "title": "Investigations on the heat transfer performance of phase change material (PCM)-based heat sink with triply periodic minimal surfaces (TPMS)",
+   "journal": "International Journal of Heat and Mass Transfer",
+   "year": 2024,
+   "vol": "234",
+   "page": "126078",
+   "doi": "10.1016/j.ijheatmasstransfer.2024.126078",
+   "authors": "Wang Jiabin, Pu Wenhao, Zhao Haisheng, Qiao Long, Song Nanxin, Yue Chen",
+   "abstract": ""
+  },
+  {
+   "title": "Experimental and numerical investigations on the intermittent heat transfer performance of phase change material (PCM)-based heat sink with triply periodic minimal surfaces (TPMS)",
+   "journal": "Applied Thermal Engineering",
+   "year": 2024,
+   "vol": "254",
+   "page": "123864",
+   "doi": "10.1016/j.applthermaleng.2024.123864",
+   "authors": "Wang Jiabin, Pu Wenhao, Zhao Haisheng, Qiao Long, Song Nanxin, Yue Chen",
+   "abstract": ""
+  },
+  {
+   "title": "Phase change material application in heat sink: Microencapsulated PCM",
+   "journal": "Phase Change Materials for Heat Transfer",
+   "year": 2023,
+   "vol": null,
+   "page": "155-179",
+   "doi": "10.1016/b978-0-323-91905-0.00010-1",
+   "authors": "Pillai Praveen Bhaskaran, Suresh S., Venkitaraj K.P., Ali Hafiz Muhammad",
+   "abstract": ""
+  },
+  {
+   "title": "A heat sink integrating fins within high thermal conductivity phase change material to cool high heat-flux heat sources",
+   "journal": "International Journal of Thermal Sciences",
+   "year": 2022,
+   "vol": "172",
+   "page": "107190",
+   "doi": "10.1016/j.ijthermalsci.2021.107190",
+   "authors": "Al-Omari Salah Addin Burhan, Qureshi Zahid Ahmed, Elnajjar Emad, Mahmoud Farooq",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical and Experimental Analyses of a Phase Change Material-Thermoelectric System Integrated with a Heat Sink and Radiative Cooling",
+   "journal": "",
+   "year": null,
+   "vol": null,
+   "page": null,
+   "doi": "10.1021/acsami.4c17331.s001",
+   "authors": "",
+   "abstract": ""
+  },
+  {
+   "title": "Heat transfer performance of a finned metal foam-phase change material (FMF-PCM) system incorporating triply periodic minimal surfaces (TPMS)",
+   "journal": "International Journal of Heat and Mass Transfer",
+   "year": 2021,
+   "vol": "170",
+   "page": "121001",
+   "doi": "10.1016/j.ijheatmasstransfer.2021.121001",
+   "authors": "Qureshi Zahid Ahmed, Elnajjar Emad, Al-Ketan Oraib, Al-Rub Rashid Abu, Al-Omari Salah Burhan",
+   "abstract": ""
+  },
+  {
+   "title": "Thermal characteristics study of a heat sink with embedded phase change material (PCM) in the triply periodic minimal surfaces (TPMS)",
+   "journal": "International Journal of Thermal Sciences",
+   "year": 2025,
+   "vol": "218",
+   "page": "110182",
+   "doi": "10.1016/j.ijthermalsci.2025.110182",
+   "authors": "Wang Jiabin, Pu Wenhao, Zhao Haisheng, Qiao Long, Song Nanxin, Yue Chen",
+   "abstract": ""
+  },
+  {
+   "title": "Effect of Modified Fin Geometries on the Effectiveness Of a Phase Change Material Heat Sink",
+   "journal": "ASME 2023 Heat Transfer Summer Conference",
+   "year": 2023,
+   "vol": null,
+   "page": null,
+   "doi": "10.1115/ht2023-107072",
+   "authors": "Jones Austin, Darabi Jeff",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Finned heatsinks have long been used as a passive means to cool electronic components. However, the demand for smaller, high power density products, packaged near one another, has led to the need for a different solution. One such solution is to utilize a material such as paraffin wax and its high latent heat as a phase change material (PCM). A material with high latent heat allows the components to be held at a lower temperature for a period time until all the PCM has melted. The biggest drawback of these materials is their low thermal conductivity, which does not effectively transfer the heat away from the heat source. This paper pre"
+  }
+ ],
+ "s1b_qureshi_porous": [
+  {
+   "title": "Experimental Investigation on Electronics Cooling with Low Porosity Metal Foam/Phase Change Material Composite Heat Sink",
+   "journal": "",
+   "year": 2023,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.4459077",
+   "authors": "Öztürk Bülent, Gölbaşı Zafer, Yazici Mustafa Yusuf",
+   "abstract": ""
+  },
+  {
+   "title": "Enhancement the Performance of the Heat Sink by Using Metal Foam and Phase Change Material Composite for Different Porosities",
+   "journal": "",
+   "year": 2025,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.5218051",
+   "authors": "Abedalh Ayad  selman",
+   "abstract": ""
+  },
+  {
+   "title": "Experimental Study on the Thermal Performance of a Finned Metal Foam Heat Sink with Phase Change Material",
+   "journal": "Heat Transfer Engineering",
+   "year": 2020,
+   "vol": "42",
+   "page": "579-591",
+   "doi": "10.1080/01457632.2020.1716482",
+   "authors": "Huang Yongping, Sun Qing, Yao Feng, Zhang Chengbin",
+   "abstract": ""
+  },
+  {
+   "title": "Experimental study of heat transfer enhancement using metal foam partially filled with phase change material in a heat sink",
+   "journal": "Journal of Energy Storage",
+   "year": 2023,
+   "vol": "60",
+   "page": "106496",
+   "doi": "10.1016/j.est.2022.106496",
+   "authors": "Mirshekar Alireza, Goodarzi Mohammad Reza, Mohebbi-Kalhori Davod, Shafiei Mayam Mohammad Hossein",
+   "abstract": ""
+  },
+  {
+   "title": "Waste heat management in electric motors using thermoelectric generator integrated with phase change material and metal foam-embedded heat sink",
+   "journal": "Energy Reports",
+   "year": 2024,
+   "vol": "11",
+   "page": "6199-6207",
+   "doi": "10.1016/j.egyr.2024.06.009",
+   "authors": "Yousefi Esmaeil, Abbas Nejad Ali",
+   "abstract": ""
+  },
+  {
+   "title": "Heat transfer augmentation of porous media (metallic foam) and phase change material based heat sink with variable heat generations: An experimental evaluation",
+   "journal": "Sustainable Energy Technologies and Assessments",
+   "year": 2022,
+   "vol": "52",
+   "page": "102218",
+   "doi": "10.1016/j.seta.2022.102218",
+   "authors": "Ali Hafiz Muhammad",
+   "abstract": ""
+  },
+  {
+   "title": "Forced convection heat transfer of microencapsulated phase change material slurry in plate-finned metal foam heat sink",
+   "journal": "Applied Thermal Engineering",
+   "year": 2026,
+   "vol": "300",
+   "page": "131281",
+   "doi": "10.1016/j.applthermaleng.2026.131281",
+   "authors": "Li Yongtong, Yang Boyu, Cui Wenshuang, Yang Yunxi, Guo Kai",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical simulation of thermal performance of heat sink augmented with phase change material PCM integrated with solid and aluminum metal foam fins",
+   "journal": "Heat Transfer",
+   "year": 2024,
+   "vol": "53",
+   "page": "3799-3826",
+   "doi": "10.1002/htj.23113",
+   "authors": "Theeb Ali Hussein F., Hussain Ihsan Y.",
+   "abstract": "<jats:title>Abstract</jats:title><jats:p>This study introduced a novel numerical modeling for the evaluation of a hybrid heat sink design by replacing the solid fins with aluminum foam fins (AFF) for the same thickness of 2 mm within a phase change material (PCM). This innovation is designed to enhance thermal performance in electronic cooling applications. Heat fluxes of 2, 3, and 4 kW/m<jats:sup>2</jats:sup> were applied to the base. The performance has been verified at set point temperatures (SPT) of 60°C, 70°C, and 80°C, encompassing a range relevant to various applications. Different AFF thicknesses (4 and 6 mm) and foam porosities (0.85, 0.90, and 0.95) were investigated. The study dem"
+  }
+ ],
+ "s2_qureshi_am": [
+  {
+   "title": "Achieving Superior Mechanical Performance of Additive Manufactured TPMS Lattice Structure via Dual Isosurface Design Method",
+   "journal": "",
+   "year": 2025,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.5763562",
+   "authors": "Chen Yun, Wang Ziqi, Shi Xingcheng, Teng Qing, PDF See",
+   "abstract": ""
+  },
+  {
+   "title": "Thermal conductivity of TPMS lattice structures manufactured via laser powder bed fusion",
+   "journal": "Additive Manufacturing",
+   "year": 2019,
+   "vol": "30",
+   "page": "100846",
+   "doi": "10.1016/j.addma.2019.100846",
+   "authors": "Catchpole-Smith S., Sélo R.R.J., Davis A.W., Ashcroft I.A., Tuck C.J., Clare A.",
+   "abstract": ""
+  },
+  {
+   "title": "Vibration Characteristics of Additive Manufactured IWP-type TPMS Gradient Lattice Structures",
+   "journal": "2023 7th International Conference on Transportation Information and Safety (ICTIS)",
+   "year": 2023,
+   "vol": null,
+   "page": "1-4",
+   "doi": "10.1109/ictis60134.2023.10243703",
+   "authors": "Qiao Hui, Zhang Cong, Yang Lei",
+   "abstract": ""
+  },
+  {
+   "title": "Flow-priority optimization of additively manufactured variable-TPMS lattice heat exchanger based on macroscopic analysis",
+   "journal": "Additive Manufacturing",
+   "year": 2026,
+   "vol": "125",
+   "page": "105246",
+   "doi": "10.1016/j.addma.2026.105246",
+   "authors": "Yanagihara Kazutaka, Iwasaki Jun, Saso Kiyoto, Yamashita Taichi, Murakoshi Shomu, Takezawa Akihiro",
+   "abstract": ""
+  },
+  {
+   "title": "Enhanced Energy Absorption in Bioinspired Combined TPMS-Gyroid and Walled TPMS-Gyroid Lattice Structure Manufactured via Fused Filament Fabrication (FFF)",
+   "journal": "",
+   "year": 2024,
+   "vol": null,
+   "page": null,
+   "doi": "10.20944/preprints202403.1003.v1",
+   "authors": "Alemayehu Dawit Bogale, Todoh Masahiro",
+   "abstract": "<jats:p>Bio-inspired gyroid triply periodic minimum surface (TPMS) lattice structures have been the focus of research in automotive engineering because they can absorb a lot of energy and have wider plateau ranges. The main challenge is determining the optimal energy absorption capacity and accurately capturing plastic plateau areas using finite element analysis (FEA). Using nTop&amp;#039;s Boolean subtraction method, this study combined walled TPMS gyroid structures with normal TPMS gyroid lattice. This made a composite TPMS-gyroid lattice with relative densities ranging from 14% to 54%. Using the ideaMaker software and the fused deposition modeling (FDM) Raise3D Pro 2 3D printer to print p"
+  },
+  {
+   "title": "Mechanical Performance of Additive Manufactured TPMS Lattice Structures Based on Topology Optimization",
+   "journal": "Computer Modeling in Engineering &amp; Sciences",
+   "year": 2025,
+   "vol": "144",
+   "page": "763-789",
+   "doi": "10.32604/cmes.2025.067363",
+   "authors": "Wang Yizhou, Zhao Qinghai, Li Guoqing, Li Xudong",
+   "abstract": ""
+  },
+  {
+   "title": "Effect of varying unit cell size on energy absorption behaviour of additive manufactured TPMS PETG lattice structure",
+   "journal": "Progress in Additive Manufacturing",
+   "year": 2023,
+   "vol": "8",
+   "page": "1379-1391",
+   "doi": "10.1007/s40964-023-00407-w",
+   "authors": "Sathishkumar N., Arunkumar N., Rohith S. V., Hariharan R. Rohit",
+   "abstract": ""
+  },
+  {
+   "title": "Effect of Residual Stresses on the Mechanical Properties of TPMS Lattice Structures Manufactured Using 316L Stainless Steel",
+   "journal": "IVth International Conference on Simulation for Additive Manufacturing",
+   "year": 2023,
+   "vol": null,
+   "page": null,
+   "doi": "10.23967/c.simam.2023.007",
+   "authors": "Mapari H., Kruse H., Escobar E., Matei A., Schleifenbaum J.",
+   "abstract": ""
+  }
+ ],
+ "s3_gado": [
+  {
+   "title": "Thermal management and heat transfer enhancement of electronic devices using integrative phase change material (PCM) and triply periodic minimal surface (TPMS) heat sinks",
+   "journal": "Applied Thermal Engineering",
+   "year": 2025,
+   "vol": "258",
+   "page": "124504",
+   "doi": "10.1016/j.applthermaleng.2024.124504",
+   "authors": "Gado Mohamed G.",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical and Experimental Analyses of a Phase Change Material-Thermoelectric System Integrated with a Heat Sink and Radiative Cooling",
+   "journal": "",
+   "year": null,
+   "vol": null,
+   "page": null,
+   "doi": "10.1021/acsami.4c17331.s001",
+   "authors": "",
+   "abstract": ""
+  },
+  {
+   "title": "Experimental and numerical investigations on the intermittent heat transfer performance of phase change material (PCM)-based heat sink with triply periodic minimal surfaces (TPMS)",
+   "journal": "Applied Thermal Engineering",
+   "year": 2024,
+   "vol": "254",
+   "page": "123864",
+   "doi": "10.1016/j.applthermaleng.2024.123864",
+   "authors": "Wang Jiabin, Pu Wenhao, Zhao Haisheng, Qiao Long, Song Nanxin, Yue Chen",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical Investigations on Melting of Phase Change Material (PCM) with Different Arrangements of Heat Source-sink Pairs Under Microgravity",
+   "journal": "Microgravity Science and Technology",
+   "year": 2022,
+   "vol": "34",
+   "page": null,
+   "doi": "10.1007/s12217-022-09936-5",
+   "authors": "Mahmud Hasibuzzaman, Ahmed Dewan Hasan",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical Analysis of Melting of Nano-Enhanced Phase Change Material (NePCM) in a Cavity with Different Positions of Two Heat Source-Sink Pairs",
+   "journal": "Indian Journal of Science and Technology",
+   "year": 2015,
+   "vol": "8",
+   "page": "49",
+   "doi": "10.17485/ijst/2015/v8is9/68564",
+   "authors": "Mostafavinia Nasser, Eghvay Saman, Hassanzadeh Amir",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical Analysis of a Hybrid Heat Sink Using Phase Change Material: Application to Cooling of Electronic Components",
+   "journal": "Heat Transfer: Volume 2",
+   "year": 2008,
+   "vol": null,
+   "page": "771-777",
+   "doi": "10.1115/ht2008-56012",
+   "authors": "Faraji Mustapha, El Qarnia Hamid",
+   "abstract": "<jats:p>The aim of the present work is to study the thermal performance of a hybrid heat sink used for cooling management of protruding substrate-mounted electronic chips. The power generated in electronic chips is dissipated in phase change material (PCM n-ecosane with melting temperature Tm = 36°C) that filled a rectangular enclosure. The advantage of using this cooling strategy is that the PCMs are able to absorb a high amount of heat generated by electronic component (EC) without acting the fan, during the charging process (melting of the PCM). A (2D) mathematical model was developed in order to analyze and optimize a heat sink. The governing equations for masse, momentum and energy tran"
+  },
+  {
+   "title": "Numerical Simulation of Melting and Resolidification of a Phase Change Material Around Two Cylindrical Heat Exchangers",
+   "journal": "Numerical Heat Transfer, Part A: Applications",
+   "year": 1993,
+   "vol": "24",
+   "page": "143-160",
+   "doi": "10.1080/10407789308902610",
+   "authors": "Lacroix M.",
+   "abstract": ""
+  },
+  {
+   "title": "Gaussian process optimization of phase change material heat sink design",
+   "journal": "Numerical Heat Transfer, Part B: Fundamentals",
+   "year": 2023,
+   "vol": "85",
+   "page": "1767-1785",
+   "doi": "10.1080/10407790.2023.2273513",
+   "authors": "Kim Soonwook, Kim Hyeongkeun, King William P., Miljkovic Nenad",
+   "abstract": ""
+  }
+ ],
+ "s5_kaur_singh": [
+  {
+   "title": "Conformal design of Gyroid TPMS lattices for enhanced thermal-hydraulic performance in U-shaped and arc-shaped heat exchanger channels: A parametric numerical study",
+   "journal": "Applied Thermal Engineering",
+   "year": 2026,
+   "vol": "303",
+   "page": "132046",
+   "doi": "10.1016/j.applthermaleng.2026.132046",
+   "authors": "Zhao Weilin, Deng Hongwu, Xiao Yewei, Yan Kaixin",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical Analysis on the Optimization of TPMS Insert Profiles for Enhanced Heat Exchanger Performance: A Comparative Study",
+   "journal": "Volume 8: Heat Transfer and Thermal Engineering; Mechanics of Solids, Structures and Fluids",
+   "year": 2025,
+   "vol": null,
+   "page": null,
+   "doi": "10.1115/imece2025-164343",
+   "authors": "Singh Ranjit J., Vijayavenkataraman Sanjairaj, Kumar Sunil",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Enhancing convective heat transfer between working fluids and solid structures is critical for improving the compactness of thermal systems, especially in thermal cycle applications. Flow channel inserts are known to enhance both heat transfer performance and structural integrity. Triply periodic minimal surfaces (TPMS), such as gyroid and primitive structures, have gained attention due to their high surface-area-to-volume ratio and suitability for axial flow. However, the impact of modifying TPMS geometries by varying the mathematical equations and periodicity on heat transfer performance remains underexplored. This study investiga"
+  },
+  {
+   "title": "Thermal-hydraulic performance of a cylindrical Diamond-TPMS heat exchanger for secondary-side data center liquid cooling",
+   "journal": "Case Studies in Thermal Engineering",
+   "year": 2026,
+   "vol": "83",
+   "page": "108164",
+   "doi": "10.1016/j.csite.2026.108164",
+   "authors": "Lu Haifeng, Zhang Fengrui, Qian Chenyi, Wang Jiaxuan, Shang Mingli, Shi Junye",
+   "abstract": ""
+  },
+  {
+   "title": "Hybrid-Periodicity gyroid TPMS heat exchanger for enhanced thermal performance and structural stability using Fluid-Structure interaction",
+   "journal": "International Journal of Heat and Fluid Flow",
+   "year": 2026,
+   "vol": "121",
+   "page": "110524",
+   "doi": "10.1016/j.ijheatfluidflow.2026.110524",
+   "authors": "Singh Ranjit J., Vijayavenkataraman Sanjairaj, Kumar Sunil",
+   "abstract": ""
+  },
+  {
+   "title": "Hydraulic and thermal studies on a chevron type plate heat exchanger",
+   "journal": "Thermal Science",
+   "year": 2018,
+   "vol": "22",
+   "page": "2759-2770",
+   "doi": "10.2298/tsci160324312k",
+   "authors": "Kumar Bhupal, Singh Shalendra",
+   "abstract": ""
+  },
+  {
+   "title": "Thermal-hydraulic performance investigation of an aluminium plate heat exchanger and a 3D-printed polymer plate heat exchanger",
+   "journal": "Applied Thermal Engineering",
+   "year": 2021,
+   "vol": "194",
+   "page": "117060",
+   "doi": "10.1016/j.applthermaleng.2021.117060",
+   "authors": "Lowrey S., Hughes C., Sun Z.",
+   "abstract": ""
+  },
+  {
+   "title": "Design of Real-Time Browser Based Platform for Thermal Hydraulic Characterization of a Laboratory Heat Exchanger Using PolyVR",
+   "journal": "",
+   "year": 2026,
+   "vol": null,
+   "page": null,
+   "doi": "10.20944/preprints202607.1253.v1",
+   "authors": "Hristov Vasil, Georgieva Nely, Tsankov Petko, Häfner Victor",
+   "abstract": "<jats:p>This paper presents a real-time browser-based platform for thermal‑hydraulic characteri-zation of a compact laboratory heat exchanger, implemented within the PolyVR re-search‑grade virtual reality engine. Experimental measurements—including temperature, flow rate, pressure, and electrical quantities—are retrieved from a cloud database at 1 Hz and processed through a browser‑native computational framework that performs contin-uous thermophysical modeling, hydraulic analysis, and energy‑balance evaluation. The system computes heat‑transfer rate, overall heat‑transfer coefficient, Reynolds, Prandtl, Nusselt, and Grashof numbers, pump performance, heater efficiency, and cumulative therma"
+  },
+  {
+   "title": "Thermal-Hydraulic Characterization of Shell-Side Flow in a Cryogenic Coiled Finned-Tube Heat Exchanger",
+   "journal": "Journal of Heat Transfer",
+   "year": 2021,
+   "vol": "143",
+   "page": null,
+   "doi": "10.1115/1.4049961",
+   "authors": "Howard Jonathon, Hasan Nusair, Knudsen Peter",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Coiled finned-tube heat exchangers, also called Collins type heat exchangers, are frequently used in small- to medium-scale cryogenic systems to improve design packaging (compactness) while maintaining high thermal effectiveness. A typical heat exchanger assembly of this kind consists of an inner cylindrical shell, called the mandrel, with helical finned-tube coils wrapped around it, and then enclosed by an outer shell. One flow path is through the helically wrapped tube, and the other flow path through annular flow region of the tubes. These are also known as tube and shell streams, respectively. An accurate description of the shell-s"
+  }
+ ],
+ "s6_tang_gyroid": [
+  {
+   "title": "Mathematical regulation of Gyroid-type TPMS structures for enhanced convective heat transfer",
+   "journal": "International Journal of Heat and Fluid Flow",
+   "year": 2026,
+   "vol": "118",
+   "page": "110227",
+   "doi": "10.1016/j.ijheatfluidflow.2025.110227",
+   "authors": "Qin Kaiwen, Yang Si, Lv Tingxiang, Zhao Xijun, Tang Xiaobin",
+   "abstract": ""
+  },
+  {
+   "title": "Gyroid-type TPMS structure optimization based on mathematical function control and its convective heat transfer performance study",
+   "journal": "International Communications in Heat and Mass Transfer",
+   "year": 2025,
+   "vol": "162",
+   "page": "108682",
+   "doi": "10.1016/j.icheatmasstransfer.2025.108682",
+   "authors": "Qin Kaiwen, Zhuang Nailiang, Shao Chong, Zhao Hangbin, Tang Xiaobin",
+   "abstract": ""
+  },
+  {
+   "title": "Controlling TPMS lattice deformation for enhanced convective heat transfer: A comparative study of Diamond and Gyroid structures",
+   "journal": "International Communications in Heat and Mass Transfer",
+   "year": 2024,
+   "vol": "154",
+   "page": "107443",
+   "doi": "10.1016/j.icheatmasstransfer.2024.107443",
+   "authors": "Barakat Abdallah, Sun BeiBei",
+   "abstract": ""
+  },
+  {
+   "title": "Analysis on the convective heat transfer process and performance evaluation of Triply Periodic Minimal Surface (TPMS) based on Diamond, Gyroid and Iwp",
+   "journal": "International Journal of Heat and Mass Transfer",
+   "year": 2023,
+   "vol": "201",
+   "page": "123642",
+   "doi": "10.1016/j.ijheatmasstransfer.2022.123642",
+   "authors": "Tang Wei, Zhou Hua, Zeng Yun, Yan Minglei, Jiang Chenglu, Yang Ping",
+   "abstract": ""
+  },
+  {
+   "title": "Experimental Investigation on the Convective Heat Transfer Performance of Five Triply Periodic Minimal Surfaces (Tpms): Gyroid, Diamond, Iwp, Primitive, and Fischer-Koch-S",
+   "journal": "",
+   "year": 2023,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.4648952",
+   "authors": "Tang Wei, Zou Changcheng, Guo Juntao, Li Chengpeng, Zeng Linwei, Wang Xiongsheng",
+   "abstract": ""
+  },
+  {
+   "title": "Computational Analysis and Engineering Modeling for the Heat Transfer and Fluid Flow Through the Gyroid Tpms Structure",
+   "journal": "",
+   "year": 2024,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.4969688",
+   "authors": "Ornelas-Ramón Luis  Guillermo, Gómez-Ortega Arturo, Pérez-Barrera James, Piedra Saúl",
+   "abstract": ""
+  },
+  {
+   "title": "Convective heat transfer process and performance analysis of TPMS hybrid heat sinks based on Diamond and Gyroid",
+   "journal": "Applied Thermal Engineering",
+   "year": 2026,
+   "vol": "293",
+   "page": "130474",
+   "doi": "10.1016/j.applthermaleng.2026.130474",
+   "authors": "Huo Yuliang, Yu Tao, Lou Guibin, Jia Kaixuan, Naqvi Syed Mesum Raza, Chen Hongwei",
+   "abstract": ""
+  },
+  {
+   "title": "Wavy-channel Primitive TPMS through implicit-function phase modulation: flow undulation and convective heat transfer enhancement",
+   "journal": "",
+   "year": 2026,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.7022164",
+   "authors": "Liu Jinwei, Zhang Wenwen, Xu Rongwu, Tian Bowen",
+   "abstract": "<jats:p>Aiming at the mismatched heat transfer efficiency and flow resistance, as well as the insufficient geometric control accuracy, of the Primitive‐type TPMS structure, this paper proposes for the first time a convective heat transfer enhancement method that embeds phase‐regulation functions into the implicit formulation. By introducing phase‐control terms in the x, y and z directions, refined flow‐channel control is achieved without changing the porosity. Numerical simulations are conducted to investigate the effects of parameter b on structural geometry, flow resistance, heat transfer, and overall performance over the Reynolds number range of 1865–11989. The results show that decreasin"
+  }
+ ],
+ "s21_3dprint_lattice": [
+  {
+   "title": "Parametric Optimization of a Phase Change Material-Integrated Heat Sink for Electronics Cooling Using the Taguchi Method",
+   "journal": "",
+   "year": 2026,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.7355711",
+   "authors": "Ata Ismail, Akbulut Ayhan",
+   "abstract": "<jats:p>In this study, the Taguchi method was employed to optimize the parameters affecting the cooling performance of a heat sink with phase change materials (PCMs) embedded in the fins, with different melting temperatures and heights. Four different heat flux levels, two air velocities, two PCM melting temperatures, and two PCM heights were selected as experimental parameters. The effect of each parameter on the heat sink base temperature was experimentally investigated. An L8 (4¹×2³) orthogonal array, designed using the Taguchi method, was utilized to determine the optimal experimental configuration that minimizes the heat sink base temperature. The minimum base temperature was obtained a"
+  },
+  {
+   "title": "Experimental Investigation on Electronics Cooling with Low Porosity Metal Foam/Phase Change Material Composite Heat Sink",
+   "journal": "",
+   "year": 2023,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.4459077",
+   "authors": "Öztürk Bülent, Gölbaşı Zafer, Yazici Mustafa Yusuf",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical and Experimental Analyses of a Phase Change Material-Thermoelectric System Integrated with a Heat Sink and Radiative Cooling",
+   "journal": "",
+   "year": null,
+   "vol": null,
+   "page": null,
+   "doi": "10.1021/acsami.4c17331.s001",
+   "authors": "",
+   "abstract": ""
+  },
+  {
+   "title": "Thermal performance of a 3D printed lattice-structure heat sink packaging phase change material",
+   "journal": "Chinese Journal of Aeronautics",
+   "year": 2021,
+   "vol": "34",
+   "page": "373-385",
+   "doi": "10.1016/j.cja.2020.07.033",
+   "authors": "GUO Yuandong, YANG Huning, LIN Guiping, JIN Haichuan, SHEN Xiaobin, HE Jiang",
+   "abstract": ""
+  },
+  {
+   "title": "3D-Printed Phase-Change Porous Monoliths for Adaptive Radiative Cooling with High Solar Reflectance and Latent Heat Buffering",
+   "journal": "",
+   "year": null,
+   "vol": null,
+   "page": null,
+   "doi": "10.1021/acsami.6c06774.s001",
+   "authors": "",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical and Experimental Investigation of a Phase Change Material Radial Fin Heat Sink for Electronics Cooling",
+   "journal": "",
+   "year": 2024,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.4751253",
+   "authors": "Arqam Mohammad, Raffa Laryssa  Sueza, Clemon Lee  Michael, Islam Saidul, Ryall Matt, Bennett Nick  S.",
+   "abstract": ""
+  },
+  {
+   "title": "Cooling management of a protruding electronic components by using a phase change material heat sink",
+   "journal": "2007 14th IEEE International Conference on Electronics, Circuits and Systems",
+   "year": 2007,
+   "vol": null,
+   "page": "174-177",
+   "doi": "10.1109/icecs.2007.4510958",
+   "authors": "Faraji Mustapha, El Qarnia Hamid",
+   "abstract": ""
+  },
+  {
+   "title": "State of the art 3D printed heat sink with a combination of multiple discretely located honeycomb structures with phase change material for enhanced cooling of electronic gadgets",
+   "journal": "International Journal of Heat and Mass Transfer",
+   "year": 2025,
+   "vol": "251",
+   "page": "127356",
+   "doi": "10.1016/j.ijheatmasstransfer.2025.127356",
+   "authors": "Andhare Yogesh Madhavrao, Nandan Rakesh, Arumuru Venugopal, Das Mihir Kumar",
+   "abstract": ""
+  }
+ ],
+ "s23_copper_foam": [
+  {
+   "title": "Heat transfer enhancement of phase change composite material: Copper foam/paraffin",
+   "journal": "Renewable Energy",
+   "year": 2016,
+   "vol": "96",
+   "page": "960-965",
+   "doi": "10.1016/j.renene.2016.04.039",
+   "authors": "Wang Changhong, Lin Tao, Li Na, Zheng Huanpei",
+   "abstract": ""
+  },
+  {
+   "title": "Heat Transfer Enhancement of Finned Copper Foam/Paraffin Composite Phase Change Material",
+   "journal": "Recent Patents on Mechanical Engineering",
+   "year": 2022,
+   "vol": "15",
+   "page": "340-350",
+   "doi": "10.2174/2212797614666210901164157",
+   "authors": "Wu Tingting, Hu Yanxin, Liu Xianqing, Wang Changhong, Zeng Zijin, She Zengwei",
+   "abstract": "<jats:sec><jats:title>Background:</jats:title><jats:p>The employment of Phase Change Materials (PCMs) provides a potential selection for heat dissipation and energy storage. The main reason that hinders the wide application is the low thermal conductivity of PCMs. Combining the proper metal fin and copper foam, the fin/composite phase change material (Fin-CPCM) structure with good performance could be obtained. However, the flow resistance of liquid paraffin among the porous structure has seldom been reported, which will significantly affect the thermal performance inside the metal foam. Furthermore, the presence of porous metal foam is primarily helpful for enhancing the heat transfer proce"
+  },
+  {
+   "title": "Numerical Simulation of Melting in Metal Foam/Paraffin Composite Phase Change Material Using a Physically More Reasonable Macroscale Model",
+   "journal": "ASME 2019 Heat Transfer Summer Conference",
+   "year": 2019,
+   "vol": null,
+   "page": null,
+   "doi": "10.1115/ht2019-3642",
+   "authors": "Yao Yuanpeng, Wu Huiying",
+   "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In this work, a macroscale model for melting phase change of metal foam/paraffin composite phase change material (MFPC) is developed by employing the enthalpy-porosity method and volume averaging technique. Both cases of varied and unvaried paraffin density during phase change are investigated in the model, and diffusion dominated interstitial heat exchange between paraffin and metal foam is considered along with the convection dominated interstitial heat transfer. The visualization experiments on melting phase change of copper foam/paraffin composite are carried out to validate the developed phase change model. It is found that with c"
+  },
+  {
+   "title": "EXPERIMENT AND ANALYSIS OF EFFECTIVE THERMAL CONDUCTIVITY OF A COPPER FOAM/PARAFFIN COMPOSITE PHASE CHANGE MATERIAL",
+   "journal": "International Heat Transfer Conference 16",
+   "year": 2018,
+   "vol": null,
+   "page": "8602-8611",
+   "doi": "10.1615/ihtc16.tpm.022100",
+   "authors": "Yang Xiao, Zheng Xinghua, Li Shen, Chen Haisheng",
+   "abstract": ""
+  },
+  {
+   "title": "Comprehensive Study on Melting Process of Phase Change Material by Using Paraffin Coupled Finned Heating Plate for Heat Transfer Enhancement",
+   "journal": "Sustainability",
+   "year": 2022,
+   "vol": "14",
+   "page": "3097",
+   "doi": "10.3390/su14053097",
+   "authors": "Zhang Lixi, Zhang Zhengyang, Yin Hui",
+   "abstract": "<jats:p>Paraffin is a low-temperature phase change material, which is often used to recover and store heat in a solar thermal utilization system. This study aims to reveal the development and migration law of paraffin melting interface with time under the influence of a finned heating plate, as well as the heat transfer mechanism, and obtain the ways and methods to enhance the heat transfer in phase change material through visual experiments and numerical simulation. The research shows that once the paraffin with a high liquid fraction connects the mushy zone between the fin and the top wall, the vortexes in the mushy zone increases rapidly, which enhances the natural convective heat transfe"
+  },
+  {
+   "title": "Melting heat transfer characteristics of a composite phase change material fabricated by paraffin and metal foam",
+   "journal": "Applied Energy",
+   "year": 2017,
+   "vol": "185",
+   "page": "1971-1983",
+   "doi": "10.1016/j.apenergy.2015.10.075",
+   "authors": "Zhang P., Meng Z.N., Zhu H., Wang Y.L., Peng S.P.",
+   "abstract": ""
+  },
+  {
+   "title": "Phase Change Heat Transfer Enhancement Using Copper Porous Foam",
+   "journal": "Journal of Heat Transfer",
+   "year": 2008,
+   "vol": "130",
+   "page": null,
+   "doi": "10.1115/1.2928010",
+   "authors": "Siahpush Ali, O’Brien James, Crepeau John",
+   "abstract": "<jats:p>A detailed experimental and analytical study has been performed to evaluate how copper porous foam (CPF) enhances the heat transfer performance in a cylindrical solid/liquid phase change thermal energy storage system. The CPF used in this study had a 95% porosity and the phase change material (PCM) was 99% pure eicosane. The PCM and CPF were contained in a vertical cylinder where the temperature at its radial boundary was held constant, allowing both inward freezing and melting of the PCM. Detailed quantitative time-dependent volumetric temperature distributions and melt/freeze front motion and shape data were obtained. As the material changed phase, a thermal resistance layer built "
+  },
+  {
+   "title": "HEAT TRANSFER ENHANCEMENT OF CERAMIC FOAM FOR MOLTEN SALT-BASED PHASE CHANGE MATERIAL",
+   "journal": "Proceeding of International Heat Transfer Conference 17",
+   "year": 2023,
+   "vol": null,
+   "page": "10",
+   "doi": "10.1615/ihtc17.210-280",
+   "authors": "Zhang Shuai, Yan Yuying",
+   "abstract": ""
+  }
+ ],
+ "s4_hybrid_design": [
+  {
+   "title": "Designing Hybrid Materials",
+   "journal": "Materials Selection in Mechanical Design",
+   "year": 2011,
+   "vol": null,
+   "page": "299-340",
+   "doi": "10.1016/b978-1-85617-663-7.00011-4",
+   "authors": "Ashby Michael F.",
+   "abstract": ""
+  },
+  {
+   "title": "Designing hybrid materials",
+   "journal": "Acta Materialia",
+   "year": 2003,
+   "vol": "51",
+   "page": "5801-5821",
+   "doi": "10.1016/s1359-6454(03)00441-5",
+   "authors": "Ashby M.F., Bréchet Y.J.M.",
+   "abstract": ""
+  },
+  {
+   "title": "Design and Designing",
+   "journal": "Materials and Design",
+   "year": 2010,
+   "vol": null,
+   "page": "28-52",
+   "doi": "10.1016/b978-1-85617-497-8.50003-9",
+   "authors": "Ashby Mike, Johnson Kara",
+   "abstract": ""
+  },
+  {
+   "title": "Designing architectured materials",
+   "journal": "Scripta Materialia",
+   "year": 2013,
+   "vol": "68",
+   "page": "4-7",
+   "doi": "10.1016/j.scriptamat.2012.04.033",
+   "authors": "Ashby Mike",
+   "abstract": ""
+  },
+  {
+   "title": "From Blue Jeans to Luminescent Materials: Designing Thioindigo-Based Red-Fluorescent Hybrid Systems",
+   "journal": "",
+   "year": null,
+   "vol": null,
+   "page": null,
+   "doi": "10.1021/acs.jpcc.3c04123.s001",
+   "authors": "",
+   "abstract": ""
+  },
+  {
+   "title": "Creep Behavior of Materials: A Comparison",
+   "journal": "Encyclopedia of Materials: Science and Technology",
+   "year": 2001,
+   "vol": null,
+   "page": "1759-1765",
+   "doi": "10.1016/b0-08-043152-6/00317-x",
+   "authors": "Brechet Y.J.M.",
+   "abstract": ""
+  },
+  {
+   "title": "Materials and Process Selection Methods",
+   "journal": "Handbook of Materials Behavior Models",
+   "year": 2001,
+   "vol": null,
+   "page": "15-29",
+   "doi": "10.1016/b978-012443341-0/50004-1",
+   "authors": "BRECHET YVES",
+   "abstract": ""
+  },
+  {
+   "title": "Designing Synergistic Nanocatalysts for Multiple Substrate Activation: Interlattice AgFe3O4 Hybrid Materials for CO2Inserted Lactones",
+   "journal": "",
+   "year": null,
+   "vol": null,
+   "page": null,
+   "doi": "10.1021/acscatal.9b04260.s001",
+   "authors": "",
+   "abstract": ""
+  }
+ ],
+ "s_gp_gyroid_melt": [
+  {
+   "title": "Enhanced Energy Absorption in Bioinspired Combined TPMS-Gyroid and Walled TPMS-Gyroid Lattice Structure Manufactured via Fused Filament Fabrication (FFF)",
+   "journal": "",
+   "year": 2024,
+   "vol": null,
+   "page": null,
+   "doi": "10.20944/preprints202403.1003.v1",
+   "authors": "Alemayehu Dawit Bogale, Todoh Masahiro",
+   "abstract": "<jats:p>Bio-inspired gyroid triply periodic minimum surface (TPMS) lattice structures have been the focus of research in automotive engineering because they can absorb a lot of energy and have wider plateau ranges. The main challenge is determining the optimal energy absorption capacity and accurately capturing plastic plateau areas using finite element analysis (FEA). Using nTop&amp;#039;s Boolean subtraction method, this study combined walled TPMS gyroid structures with normal TPMS gyroid lattice. This made a composite TPMS-gyroid lattice with relative densities ranging from 14% to 54%. Using the ideaMaker software and the fused deposition modeling (FDM) Raise3D Pro 2 3D printer to print p"
+  },
+  {
+   "title": "Annular graded and twisted TPMS lattice architectures for accelerating melting of phase change material in shell-tube thermal energy storage system",
+   "journal": "International Journal of Heat and Mass Transfer",
+   "year": 2026,
+   "vol": "271",
+   "page": "129288",
+   "doi": "10.1016/j.ijheatmasstransfer.2026.129288",
+   "authors": "Nie Changda, Wang Haitao, Li Hongyang, Liu Xinjian, Liu Jiangwei, Rao Zhonghao",
+   "abstract": ""
+  },
+  {
+   "title": "Lattice Boltzmann simulation of melting heat transfer in a composite phase change material",
+   "journal": "Applied Thermal Engineering",
+   "year": 2020,
+   "vol": "176",
+   "page": "115423",
+   "doi": "10.1016/j.applthermaleng.2020.115423",
+   "authors": "Han Qun, Wang He, Yu Cheng, Zhang Chengbin",
+   "abstract": ""
+  },
+  {
+   "title": "Lattice Boltzmann simulation of the melting enhancement of composite phase change material with highly conductive additives - Effect of discrete particulate phase and continuous conductive network",
+   "journal": "Applied Thermal Engineering",
+   "year": 2022,
+   "vol": "217",
+   "page": "119211",
+   "doi": "10.1016/j.applthermaleng.2022.119211",
+   "authors": "Liu Wenwei, Huang Yun",
+   "abstract": ""
+  },
+  {
+   "title": "Experimental investigation of melting behaviour of phase change material in finned rectangular enclosures under different inclination angles",
+   "journal": "Experimental Thermal and Fluid Science",
+   "year": 2018,
+   "vol": "97",
+   "page": "94-108",
+   "doi": "10.1016/j.expthermflusci.2018.04.007",
+   "authors": "Kamkari Babak, Groulx Dominic",
+   "abstract": ""
+  },
+  {
+   "title": "Solidification and Melting of Phase Change Material in Cold Thermal Storage Systems",
+   "journal": "Paraffin - Thermal Energy Storage Applications",
+   "year": 2022,
+   "vol": null,
+   "page": null,
+   "doi": "10.5772/intechopen.96674",
+   "authors": "Hussain Sait Hani",
+   "abstract": "<jats:p>Cold thermal storage can be used to manage peak load when the energy demand is exceeding the capacities of the electric companies. Latent heat thermal storage is more effective because it requires less spacing and has higher thermal capacity than other types. Solidification and melting are taking place in CTS and need more investigation for better performance. Phase change materials properties vary and need more investigation to select the most suitable for a certain application. The analytical equations are needed for design of CTS and get the maximum efficiency out of it. Cost effectiveness is also described.</jats:p>"
+  },
+  {
+   "title": "Experimental and numerical characterization of an impure phase change material using a thermal lattice Boltzmann method",
+   "journal": "Applied Thermal Engineering",
+   "year": 2019,
+   "vol": "154",
+   "page": "738-750",
+   "doi": "10.1016/j.applthermaleng.2019.03.026",
+   "authors": "Yehya Alissar, Naji Hassane, Zalewski Laurent",
+   "abstract": ""
+  },
+  {
+   "title": "Experimental and numerical study of a Gyroid TPMS microchannel heat sink with supercritical CO2 as the coolant",
+   "journal": "Applied Thermal Engineering",
+   "year": 2025,
+   "vol": "279",
+   "page": "127707",
+   "doi": "10.1016/j.applthermaleng.2025.127707",
+   "authors": "Peng Hui, Hu Zhan-Chao",
+   "abstract": ""
+  }
+ ],
+ "s_pcm_elec_review": [
+  {
+   "title": "Electronics cooling and thermal management using phase change materials",
+   "journal": "Navigating a Sustainable Future with Phase Change Materials for Energy Storage",
+   "year": 2026,
+   "vol": null,
+   "page": "253-279",
+   "doi": "10.1016/b978-0-443-27484-8.00017-0",
+   "authors": "Zhang Muxing, Xiong Teng, Gu Xiaobin",
+   "abstract": ""
+  },
+  {
+   "title": "Theoretical evaluation and experimental investigation of microencapsulated phase change materials (MPCM) in electronics cooling applications",
+   "journal": "2009 25th Annual IEEE Semiconductor Thermal Measurement and Management Symposium",
+   "year": 2009,
+   "vol": null,
+   "page": "239-245",
+   "doi": "10.1109/stherm.2009.4810770",
+   "authors": "Chamarthy Pramod, Utturkar Yogen",
+   "abstract": ""
+  },
+  {
+   "title": "Advanced Thermal Management Materials: From High-Thermal-Conductivity Phase Change Composites to Evaporative Passive Cooling",
+   "journal": "",
+   "year": null,
+   "vol": null,
+   "page": null,
+   "doi": "10.14711/thesis-hdl167769",
+   "authors": "Chen Yapeng",
+   "abstract": ""
+  },
+  {
+   "title": "Machine Learning (ML) Based Thermal Management for Cooling of Electronics Chips by Utilizing Thermal Energy Storage (TES) in Packaging That Leverages Phase Change Materials (PCM)",
+   "journal": "Electronics",
+   "year": 2021,
+   "vol": "10",
+   "page": "2785",
+   "doi": "10.3390/electronics10222785",
+   "authors": "Chuttar Aditya, Banerjee Debjyoti",
+   "abstract": "<jats:p>Miniaturization of electronics devices is often limited by the concomitant high heat fluxes (cooling load) and maldistribution of temperature profiles (hot spots). Thermal energy storage (TES) platforms providing supplemental cooling can be a cost-effective solution, that often leverages phase change materials (PCM). Although salt hydrates provide higher storage capacities and power ratings (as compared to that of the organic PCMs), they suffer from reliability issues (e.g., supercooling). “Cold Finger Technique (CFT)” can obviate supercooling by maintaining a small mass fraction of the PCM in a solid state for enabling spontaneous nucleation. Optimization of CFT necessitates real-ti"
+  },
+  {
+   "title": "Phase Change Material Applications in Thermal Management of Electronics and Electrical Systems",
+   "journal": "Phase Change Materials for Thermal Energy Management and Storage",
+   "year": 2024,
+   "vol": null,
+   "page": "207-230",
+   "doi": "10.1201/9781003331957-9",
+   "authors": "Ambreen Tehmina, Saleem Arslan, Ruiz-Hincapie Paula, Kulkarni Anirudh, Ali Hafiz Muhammad, Park Cheol Woo",
+   "abstract": ""
+  },
+  {
+   "title": "Machine Learning (ML) based Thermal Management for Cooling of Electronics Chips by Utilizing Thermal Energy Storage (TES) in Packaging that Leverage Phase Change Materials (PCM)",
+   "journal": "",
+   "year": 2021,
+   "vol": null,
+   "page": null,
+   "doi": "10.20944/preprints202110.0253.v1",
+   "authors": "Chuttar Aditya Jayakumar, Banerjee Debjyoti",
+   "abstract": "<jats:p>Miniaturization of electronics devices is often limited by the concomitant high heat fluxes (cooling load) and maldistribution of temperature profiles (hot spots). Thermal energy storage (TES) platforms providing supplemental cooling can be a cost-effective solution, that often leverages phase change materials (PCM). Although salt hydrates provide higher storage capacities and power ratings (as compared to that of the organic PCMs), they suffer from reliability issues (e.g., supercooling). &amp;lsquo;Cold Finger Technique (CFT)&amp;rsquo; can obviate supercooling by maintaining a small mass fraction of the PCM in solid state for enabling spontaneous nucleation. Optimization of CFT ne"
+  },
+  {
+   "title": "On the design of Phase Change Materials based thermal management systems for electronics cooling",
+   "journal": "Applied Thermal Engineering",
+   "year": 2021,
+   "vol": "196",
+   "page": "117276",
+   "doi": "10.1016/j.applthermaleng.2021.117276",
+   "authors": "Righetti Giulia, Zilio Claudio, Doretti Luca, Longo Giovanni A., Mancin Simone",
+   "abstract": ""
+  },
+  {
+   "title": "Review for \"Recent advances in passive cooling materials for thermal management in flexible electronics\"",
+   "journal": "",
+   "year": 2024,
+   "vol": null,
+   "page": null,
+   "doi": "10.1039/d4tc02523g/v1/review2",
+   "authors": "",
+   "abstract": ""
+  }
+ ],
+ "s_primitive_pcm": [
+  {
+   "title": "A Numerical Study on Time-Dependent Melting and Deformation Processes of Phase Change Material (PCM) Induced by Localized Thermal Input",
+   "journal": "Two Phase Flow, Phase Change and Numerical Modeling",
+   "year": 2011,
+   "vol": null,
+   "page": null,
+   "doi": "10.5772/23835",
+   "authors": "Kim Yangkyun, Hossain Akter, Kim Sungcho, Nakamur Yuji",
+   "abstract": ""
+  },
+  {
+   "title": "Melting of nano‐enhanced phase change material in a cavity heated sinusoidal from below: Numerical study using lattice Boltzmann method",
+   "journal": "Heat Transfer",
+   "year": 2022,
+   "vol": "51",
+   "page": "5952-5970",
+   "doi": "10.1002/htj.22576",
+   "authors": "Laouer Abdelghani, Al‐Farhany Khaled",
+   "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Natural convection and melting of ice as a phase change material dispersed with copper nanoparticles are numerically investigated. Square cavity filled with nano‐mixture (Cu−ice) subjected to sinusoidal temperature distributions from the hot bottom boundary. The phase change process and heat transfer are formulated and solved using the enthalpy‐based lattice Boltzmann method. Home‐built numerical code is developed and validated. The effect of Rayleigh number (\n                    <jats:italic>Ra</jats:italic>\n                     = 10\n                    <jats:sup>4</jats:sup>\n                    , 10\n          "
+  },
+  {
+   "title": "Numerical Study to Optimize the Melting Process of Phase Change Material Coupled with Extra Fluid",
+   "journal": "AIAA Scitech 2020 Forum",
+   "year": 2020,
+   "vol": null,
+   "page": null,
+   "doi": "10.2514/6.2020-1932",
+   "authors": "Khademi Alireza, Darbandi Masoud, Schneider G E.",
+   "abstract": ""
+  },
+  {
+   "title": "Annular graded and twisted TPMS lattice architectures for accelerating melting of phase change material in shell-tube thermal energy storage system",
+   "journal": "International Journal of Heat and Mass Transfer",
+   "year": 2026,
+   "vol": "271",
+   "page": "129288",
+   "doi": "10.1016/j.ijheatmasstransfer.2026.129288",
+   "authors": "Nie Changda, Wang Haitao, Li Hongyang, Liu Xinjian, Liu Jiangwei, Rao Zhonghao",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical Investigation of Phase Change Material (PCM) Melting in a Two-Dimensional Rotary Kiln",
+   "journal": "",
+   "year": 2025,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.5599426",
+   "authors": "Balachtsis Athanasios, Dimakopoulos Y., Tsamopoulos John",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical Study of the Melting Process of a Novel Phase Change Material Using a Rectangular Shell-Coil Heat Exchanger",
+   "journal": "",
+   "year": 2024,
+   "vol": null,
+   "page": null,
+   "doi": "10.2139/ssrn.4740825",
+   "authors": "Kafarov Viatcheslav, Cabrera Nicolas, Lizcano-González Víctor  Alexis, Mahkamov Khamid",
+   "abstract": ""
+  },
+  {
+   "title": "Numerical Study of Phase Change Material Melting in a Thermal Finned Tubular Heat Exchanger",
+   "journal": "Science of Advanced Materials",
+   "year": 2024,
+   "vol": "16",
+   "page": "1057-1064",
+   "doi": "10.1166/sam.2024.4709",
+   "authors": "Jmal Imen, Driss Zied",
+   "abstract": "<jats:p>Latent heat storage using Phase Change Materials (PCMs) is a promising solution to deal with the renewable energy fluctuation problem. The PCM modeling is based on the resolution of the energy equation. The solidification-melting process are resolved by the finite volume method by considering\n the enthalpy formulation with a specific boundary and initials conditions. In the present application, a tubular exchange with five circular horizontal fins was considered. Our aims is to investigate the storage phenomena collected by the solar energy in the PCM. The numerical results highlight\n the temperature evolution over the PCM Melting in exchange with the air circulation.</jats:p>"
+  },
+  {
+   "title": "Experimental and Numerical Study on the Melting Acceleration of Phase Change Material by Ultrasonic Vibrations",
+   "journal": "Key Engineering Materials",
+   "year": 2006,
+   "vol": "324-325",
+   "page": "1075-1078",
+   "doi": "10.4028/www.scientific.net/kem.324-325.1075",
+   "authors": "Oh Yool Kwon, Yang Ho Dong",
+   "abstract": "<jats:p>The present study was investigated on the melting phenomena and the accelerative factors\nof phase change material (PCM) by acoustic streaming induced ultrasonic vibrations. To investigate\nthe melting phenomena and accelerative factors, the experimental study was measured the liquid\ntemperature and melting time of PCM and was observed the velocity vectors and thermal fluid flow\ninduced acoustic streaming to investigate the heat transfer using particle image velocimetry (PIV) and\ninfrared thermo vision camera, respectively. Also, the numerical study based on a coupled finite\nelement-boundary element method (Coupled FE-BEM) was performed to investigate the analysis of\npressure field in "
+  }
+ ]
+}

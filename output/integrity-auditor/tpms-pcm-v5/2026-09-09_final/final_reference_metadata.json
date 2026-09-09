@@ -1,0 +1,214 @@
+[
+ {
+  "num": 1,
+  "doi": "10.1016/j.rser.2013.12.007",
+  "authors": [
+   "Ebrahimi K.",
+   "Jones G. F.",
+   "Fleischer A. S."
+  ],
+  "title": "A review of data center cooling technology, operating conditions and the corresponding low-grade waste heat recovery opportunities",
+  "journal": "Renewable and Sustainable Energy Reviews",
+  "year": 2014,
+  "vol": "31",
+  "page": "622-638",
+  "abstract": ""
+ },
+ {
+  "num": 2,
+  "doi": "10.1016/j.applthermaleng.2007.06.010",
+  "authors": [
+   "Kandasamy R.",
+   "Wang X. Q.",
+   "Mujumdar A. S."
+  ],
+  "title": "Transient cooling of electronics using phase change material (PCM)-based heat sinks",
+  "journal": "Applied Thermal Engineering",
+  "year": 2008,
+  "vol": "28",
+  "page": "1047-1057",
+  "abstract": ""
+ },
+ {
+  "num": 3,
+  "doi": "10.1016/j.ijthermalsci.2021.107361",
+  "authors": [
+   "Qureshi Z. A.",
+   "Al-Omari S. A. B.",
+   "Elnajjar E.",
+   "Al-Ketan O.",
+   "Abu Al-Rub R."
+  ],
+  "title": "Nature-inspired triply periodic minimal surface-based structures in sheet and solid configurations for performance enhancement of a low-thermal-conductivity phase-change material for latent-heat thermal-energy-storage applications",
+  "journal": "International Journal of Thermal Sciences",
+  "year": 2022,
+  "vol": "173",
+  "page": "107361",
+  "abstract": ""
+ },
+ {
+  "num": 4,
+  "doi": "10.1016/j.applthermaleng.2026.132046",
+  "authors": [
+   "Zhao W.",
+   "Deng H.",
+   "Xiao Y.",
+   "Yan K."
+  ],
+  "title": "Conformal design of Gyroid TPMS lattices for enhanced thermal-hydraulic performance in U-shaped and arc-shaped heat exchanger channels: A parametric numerical study",
+  "journal": "Applied Thermal Engineering",
+  "year": 2026,
+  "vol": "303",
+  "page": "132046",
+  "abstract": ""
+ },
+ {
+  "num": 5,
+  "doi": "10.1016/j.applthermaleng.2025.127707",
+  "authors": [
+   "Peng H.",
+   "Hu Z. C."
+  ],
+  "title": "Experimental and numerical study of a Gyroid TPMS microchannel heat sink with supercritical CO2 as the coolant",
+  "journal": "Applied Thermal Engineering",
+  "year": 2025,
+  "vol": "279",
+  "page": "127707",
+  "abstract": ""
+ },
+ {
+  "num": 6,
+  "doi": "10.1016/j.ijheatmasstransfer.2021.121001",
+  "authors": [
+   "Qureshi Z. A.",
+   "Elnajjar E.",
+   "Al-Ketan O.",
+   "Al-Rub R. A.",
+   "Al-Omari S. B."
+  ],
+  "title": "Heat transfer performance of a finned metal foam-phase change material (FMF-PCM) system incorporating triply periodic minimal surfaces (TPMS)",
+  "journal": "International Journal of Heat and Mass Transfer",
+  "year": 2021,
+  "vol": "170",
+  "page": "121001",
+  "abstract": ""
+ },
+ {
+  "num": 7,
+  "doi": "10.1016/j.csite.2021.101315",
+  "authors": [
+   "Qureshi Z. A.",
+   "Al Omari S. A. B.",
+   "Elnajjar E.",
+   "Mahmoud F.",
+   "Al-Ketan O.",
+   "Al-Rub R. A."
+  ],
+  "title": "Thermal characterization of 3D-Printed lattices based on triply periodic minimal surfaces embedded with organic phase change material",
+  "journal": "Case Studies in Thermal Engineering",
+  "year": 2021,
+  "vol": "27",
+  "page": "101315",
+  "abstract": ""
+ },
+ {
+  "num": 8,
+  "doi": "10.1016/j.applthermaleng.2024.124504",
+  "authors": [
+   "Gado M. G."
+  ],
+  "title": "Thermal management and heat transfer enhancement of electronic devices using integrative phase change material (PCM) and triply periodic minimal surface (TPMS) heat sinks",
+  "journal": "Applied Thermal Engineering",
+  "year": 2025,
+  "vol": "258",
+  "page": "124504",
+  "abstract": ""
+ },
+ {
+  "num": 9,
+  "doi": "10.1016/j.ijheatfluidflow.2025.110227",
+  "authors": [
+   "Qin K.",
+   "Yang S.",
+   "Lv T.",
+   "Zhao X.",
+   "Tang X."
+  ],
+  "title": "Mathematical regulation of Gyroid-type TPMS structures for enhanced convective heat transfer",
+  "journal": "International Journal of Heat and Fluid Flow",
+  "year": 2026,
+  "vol": "118",
+  "page": "110227",
+  "abstract": ""
+ },
+ {
+  "num": 10,
+  "doi": "10.1016/j.ijheatmasstransfer.2021.122111",
+  "authors": [
+   "Qureshi Z. A.",
+   "Addin Burhan Al-Omari S.",
+   "Elnajjar E.",
+   "Al-Ketan O.",
+   "Al-Rub R. A."
+  ],
+  "title": "On the effect of porosity and functional grading of 3D printable triply periodic minimal surface (TPMS) based architected lattices embedded with a phase change material",
+  "journal": "International Journal of Heat and Mass Transfer",
+  "year": 2022,
+  "vol": "183",
+  "page": "122111",
+  "abstract": ""
+ },
+ {
+  "num": 11,
+  "doi": "10.1016/j.cja.2020.07.033",
+  "authors": [
+   "GUO Y.",
+   "YANG H.",
+   "LIN G.",
+   "JIN H.",
+   "SHEN X.",
+   "HE J.",
+   "MIAO J."
+  ],
+  "title": "Thermal performance of a 3D printed lattice-structure heat sink packaging phase change material",
+  "journal": "Chinese Journal of Aeronautics",
+  "year": 2021,
+  "vol": "34",
+  "page": "373-385",
+  "abstract": ""
+ },
+ {
+  "num": 12,
+  "doi": "10.1016/j.apenergy.2015.10.075",
+  "authors": [
+   "Zhang P.",
+   "Meng Z.",
+   "Zhu H.",
+   "Wang Y.",
+   "Peng S."
+  ],
+  "title": "Melting heat transfer characteristics of a composite phase change material fabricated by paraffin and metal foam",
+  "journal": "Applied Energy",
+  "year": 2017,
+  "vol": "185",
+  "page": "1971-1983",
+  "abstract": ""
+ },
+ {
+  "num": 13,
+  "doi": "10.1016/j.est.2025.117784",
+  "authors": [
+   "Arqam M.",
+   "Raffa L. S.",
+   "Ryall M.",
+   "Islam M. S.",
+   "Bennett N. S."
+  ],
+  "title": "Numerical and experimental analysis of triply periodic minimal surface (TPMS)-based metal lattice heat sinks integrated with different phase change materials for enhanced thermal management of electronics",
+  "journal": "Journal of Energy Storage",
+  "year": 2025,
+  "vol": "132",
+  "page": "117784",
+  "abstract": ""
+ }
+]
