@@ -163,3 +163,5 @@ output/paper/*.log
 *.wma
 *.aiff
 *.aif
+
+tmp_*.py
