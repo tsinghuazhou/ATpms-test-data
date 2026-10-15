@@ -5,6 +5,7 @@ Main panel: T1 / B均值 / IR max on one temperature axis, wall-clock aligned
 the 42-52 degC melt window are marked. Inset: d/dt cross-correlation
 profiles vs lag (report-only diagnostic from the alignment script).
 """
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -24,8 +25,10 @@ FIG_DIR = ROOT / "output" / "paper" / "figures"
 # Palette slots: T1=blue, B mean=aqua, IR max=yellow (fixed slot order).
 C_T1, C_B, C_IR = "#2a78d6", "#1baf7a", "#eda100"
 
-df = pd.read_csv(ROOT / "aligned_gyroid30w_20261014.csv", encoding="utf-8-sig")
-lag = pd.read_csv(ROOT / "lag_profile_gyroid30w_20261014.csv", encoding="utf-8-sig")
+ALIGNED = sys.argv[1] if len(sys.argv) > 1 else "aligned_gyroid30w_20261014.csv"
+tag = Path(ALIGNED).stem.replace("aligned_", "")  # <structure>_<date>
+df = pd.read_csv(ROOT / ALIGNED, encoding="utf-8-sig")
+lag = pd.read_csv(ROOT / f"lag_profile_{tag}.csv", encoding="utf-8-sig")
 bcol = next(c for c in df.columns if c.startswith("B"))
 
 t0 = pd.Timestamp(df["time"].iloc[0])
@@ -84,8 +87,8 @@ axin.set_title(f"deriv. cross-corr vs IR; best(B)={best_b:+d}s",
 for s in ("top", "right"):
     axin.spines[s].set_visible(False)
 
-fig.savefig(FIG_DIR / "gyroid30w_20261014_alignment.png", dpi=300,
+fig.savefig(FIG_DIR / f"ir_alignment_{tag}.png", dpi=300,
             bbox_inches="tight")
-fig.savefig(FIG_DIR / "gyroid30w_20261014_alignment.pdf", bbox_inches="tight")
-print(f"saved {FIG_DIR / 'gyroid30w_20261014_alignment.png'}")
-print(f"saved {FIG_DIR / 'gyroid30w_20261014_alignment.pdf'}")
+fig.savefig(FIG_DIR / f"ir_alignment_{tag}.pdf", bbox_inches="tight")
+print(f"saved {FIG_DIR / f'ir_alignment_{tag}.png'}")
+print(f"saved {FIG_DIR / f'ir_alignment_{tag}.pdf'}")
